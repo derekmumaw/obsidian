@@ -12,6 +12,7 @@
 - Primary endpoint OS, but closed early.
 - SRS (18-25 Gy) ± 30/10 (SRS dose decreased by 30% in the arm receiving WBRT).  
 - For SRS alone: < 2 cm 18-20 Gy, < 2 cm 22-25 Gy.
+- test
 
 # results
 | 1y                | SRS  | +WBRT   | summary |
