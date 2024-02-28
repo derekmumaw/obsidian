@@ -30,6 +30,8 @@
 
 ### Boswellia
 #### Description
+- [[@siddiquiBoswelliaSerrataPotential2011]]: general overview
+- [[@safayhiBoswellicAcidsNovel1992]]: structure of molecule
 - [[@lulliAcetyl11ketovboswellicAcidReduces2015]]: MOA: VEGF/STAT3 reduced expression
 - [[@poeckelBoswellicAcidsBiological2006]]: MOA: 5-Lipoxygenase, human leukocyte elastase, topoisomerase I/II, NFKB
 - [[@safayhiInhibitionBoswellicAcids1997]]: MOA: Human leukocyte elastase inhibition
@@ -41,7 +43,7 @@
 - [[@dipierroNovelLecithinbasedDelivery2019]]
 - [[@kirsteBoswelliaSerrataActs2011]]: GBM RCT
 ##### Asthma
-- [[@guptaEffectsBoswelliaSerrata1998]]: double-blind RCT: 70% with improvement in asthma symptoms (compated to 27% in control group)
+- [[@guptaEffectsBoswelliaSerrata1998]]: double-blind RCT: 70% with improvement in asthma symptoms (compared to 27% in control group)
 
 ##### Crohns
 - [[@gerhardtTherapyActiveCrohn2001]]: double-blind RCT: BS non-inferior to mesalazine
@@ -61,6 +63,6 @@
 ### Trismus: Development and Treatment
 
 ## Discussion
-- [ ] consider comparing patient's rates of change with those from Pauli 2014 and Buchbinder 1993 Therabite data (including 95% CI).
+- relate anti-inflammatory properties/target of Boswellia → proposed RT-induced fibrosis/trismus mediators [[@straubRadiationinducedFibrosisMechanisms2015]]
 
 ## Lesons/Conclusions

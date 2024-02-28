@@ -14,73 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Research/Boswellia/Literature Review.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "56aed09759aa3082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d60ba261e768a99d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/@tangRandomizedProspectiveStudy2011.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a6b9117ca9eadc95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Boswellia/articles/@kamstraTheraBiteExercisesTreat2013.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e44cb5b93665b067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/@tangRandomizedProspectiveStudy2011.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "2528dc50f3f64567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Boswellia/articles/@carvalhoInterventionsPreventingTreating2016.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "65bcdf9c81111ae7",
@@ -237,12 +176,17 @@
   },
   "active": "c72fc933ad89174c",
   "lastOpenFiles": [
-    "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
-    "Research/Boswellia/Paper.md",
-    "Literature/@tangRandomizedProspectiveStudy2011.md",
     "Research/Boswellia/Literature Review.md",
-    "Research/Boswellia/articles/@kamstraTheraBiteExercisesTreat2013.md",
+    "Research/Boswellia/Paper.md",
+    "Literature/@siddiquiBoswelliaSerrataPotential2011.md",
+    "Literature/@straubRadiationinducedFibrosisMechanisms2015.md",
+    "Literature/@gayathriPureCompoundBoswellia2007.md",
+    "Literature/@lulliAcetyl11ketovboswellicAcidReduces2015.md",
+    "Literature/@safayhiBoswellicAcidsNovel1992.md",
     "Research/Boswellia/articles/@carvalhoInterventionsPreventingTreating2016.md",
+    "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+    "Literature/@tangRandomizedProspectiveStudy2011.md",
+    "Research/Boswellia/articles/@kamstraTheraBiteExercisesTreat2013.md",
     "Research/Boswellia/articles/@chuaPilotStudyPentoxifylline2001.md",
     "Literature/@leeRandomisedFeasibilityStudy2018.md",
     "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
@@ -268,11 +212,6 @@
     "Morning Conference/Palliative/Brain Metastases/Patchell I (± Surgery + RT).md",
     "Morning Conference/Palliative/Brain Metastases/Quartz (low KPS ± WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/ECRO Brain Mets.md",
-    "Morning Conference/Palliative/Brain Metastases/Vecht.md",
-    "Morning Conference/Palliative/Brain mets/RTOG 9005 (SRS dose-escalation).md",
-    "Morning Conference/Palliative/Brain mets/RTOG 0614 (WBRT ± Memantine).md",
-    "Morning Conference/Palliative/Brain mets/Aoyama (SRS ± WBRT).md",
-    "Morning Conference/Palliative/Brain mets/Chang (SRS ± WBRT).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
