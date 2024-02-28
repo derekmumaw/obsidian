@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Research/Boswellia/Paper.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -176,6 +176,8 @@
   },
   "active": "c72fc933ad89174c",
   "lastOpenFiles": [
+    "Research/Boswellia/attachments/dx_imaging.png",
+    "Research/Boswellia/attachments/tx_plan.png",
     "Research/Boswellia/Literature Review.md",
     "Research/Boswellia/Paper.md",
     "Literature/@siddiquiBoswelliaSerrataPotential2011.md",
@@ -211,7 +213,6 @@
     "Morning Conference/Palliative/Brain Metastases/Patchell II (± postop RT).md",
     "Morning Conference/Palliative/Brain Metastases/Patchell I (± Surgery + RT).md",
     "Morning Conference/Palliative/Brain Metastases/Quartz (low KPS ± WBRT).md",
-    "Morning Conference/Palliative/Brain Metastases/ECRO Brain Mets.md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
@@ -221,7 +222,6 @@
     "Research/SPArtifact/attachments/img_Abstract_5.png",
     "Research/SPArtifact/attachments/img_Abstract_4.png",
     "Research/SPArtifact/attachments/img_Abstract_3.png",
-    "Research/SPArtifact/attachments/img_Abstract_2.png",
     "Morning Conference/CNS/GBM/Untitled.canvas"
   ]
 }
