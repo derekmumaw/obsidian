@@ -1,0 +1,12 @@
+/* reduce callout padding */
+.callout-content {
+    --p-spacing: 0.5rem;
+}
+.callout-title {
+    padding-bottom: 5px;
+}
+
+body {
+    --p-spacing: 0.5rem;
+    --heading-spacing: 1.5rem;
+}

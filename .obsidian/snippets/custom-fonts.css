@@ -1,0 +1,8 @@
+/* custom fonts */
+.markdown-preview-view {
+    font-family: "Fira Sans" !important;
+  }
+  
+  .markdown-source-view {
+    font-family: "Fira Code" !important;
+  }

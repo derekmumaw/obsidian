@@ -1,0 +1,4 @@
+/* makes double column layout by including "cssclass: two-columns" in properties */
+.two-columns {
+    column-count: var(--column-count, 2);
+    }

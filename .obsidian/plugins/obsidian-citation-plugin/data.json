@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Literature",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nauthors: [{{authorString}}]\nyear: {{year}}\npub: \"{{containerTitle}}\"\ndoi: {{DOI}}\n{{eprinttype}}: {{eprint}}\nmoc: \n---\n>[!info]\n[{{title}}](https://pubmed.ncbi.nlm.nih.gov/{{eprint}}/)\n{{authorString}}\n**{{containerTitle}}**. {{year}}\n\n# Abstract\n{{abstract}}\n\n# Notes\n- {{note}}\n\n# PDF\n",
+  "markdownCitationTemplate": "[^@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "[^@{{citekey}}]: [[@{{citekey}}]]",
+  "citationExportPath": "G:\\My Drive\\Residency\\RadOnc\\Literature\\zotero.bib"
+}

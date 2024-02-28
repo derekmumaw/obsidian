@@ -1,0 +1,40 @@
+{
+  "livePreview": true,
+  "showLineNumber": true,
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-checklist-status",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-highlight",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "promptDelete": false,
+  "propertiesInDocument": "source",
+  "readableLineLength": true
+}

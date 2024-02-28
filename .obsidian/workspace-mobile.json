@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "0ead875ae2fa3a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f1c91f535c20d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "604ba32a36f0dcec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb85e273f0edb39a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "86704b4bec1c34f7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a68ea58161956af7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f556c439c29ba9c9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "00e3b04c9c97de13",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "448254a6df0f9257",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d0efef204c8fc42",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b2614802a010f0af",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8feb29000857dbf9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md"
+          }
+        }
+      },
+      {
+        "id": "920e12868d6d74ad",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "604ba32a36f0dcec",
+  "lastOpenFiles": [
+    "Morning Conference/Palliative/Brain mets/attachments/12 N107C (2017).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/13 ASTRO Guideline Brain Mets (2022).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/12 N107C (2017).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/ECRO_Brain-mets.pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/11 Mahajan MDA (2017).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/09 NRG CC001 (2020).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/08 RTOG 0933 (2014).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/07 RTOG 0614 (2013).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/06 Chang MDA (2009).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/05 Aoyama (2006).pdf",
+    "Morning Conference/Palliative/Brain Metastases/attachments/02 Patchell I (1990).pdf",
+    "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
+    "Morning Conference/Palliative/Brain Metastases/RTOG 9005 (SRS dose-escalation).md",
+    "Morning Conference/Palliative/Brain Metastases/RTOG 0933 (HA-WBRT).md",
+    "Morning Conference/Palliative/Brain Metastases/Vecht.md",
+    "Morning Conference/Palliative/Brain Metastases/Quartz (low KPS ± WBRT).md",
+    "Morning Conference/Palliative/Brain Metastases/Patchell I (± Surgery + RT).md",
+    "Morning Conference/Palliative/Brain Metastases/NRG CC001 (WBRT ± HA).md",
+    "Morning Conference/Palliative/Brain Metastases/Chang (SRS ± WBRT).md",
+    "Morning Conference/Palliative/Brain Metastases/Patchell II (± postop RT).md",
+    "Morning Conference/Palliative/Brain Metastases/ECRO Brain Mets.md",
+    "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
+    "Morning Conference/Palliative/Brain mets/RTOG 9005 (SRS dose-escalation).md",
+    "Morning Conference/H&N/Oropharynx - HPVpos/30 ROC (Sx+ adj (60 v 30)).md",
+    "Morning Conference/H&N/Oropharynx - HPVneg/MACH-NC meta (RT ± CC).md",
+    "Morning Conference/H&N/Oropharynx - HPVpos/ECOG 3311 (risk-stratified de-escalation).md",
+    "Morning Conference/CNS/Vestibular Schwannoma/Wolbers (Pooled SRS v Surgery).md",
+    "Morning Conference/CNS/Vestibular Schwannoma/Regis (SRS v Microsurgery).md",
+    "Morning Conference/H&N/Larynx, Hypopharynx/ECRO Larynx, Hypopharynx.md",
+    "Morning Conference/H&N/Oral Cavity/ECRO Oral Cavity.md",
+    "Morning Conference/H&N/Oral Cavity/EORTC 22931 (adjRT ± chemo).md",
+    "Research/Lattice/Paper.md",
+    "Journal Club/@gaebeReexaminingProphylacticCranial2024.md",
+    "misc/prep for Mehta.md",
+    "Research/SPArtifact/Agenda.md",
+    "Morning Conference/H&N/Unknown Primary/ECRO Unknown Primary.md",
+    "Morning Conference/H&N/Oral Cavity/attachments/Iyer_results.png"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "TagColors": {
+    "ColorPicker": [
+      {
+        "tag_name": "pimp",
+        "color": {
+          "r": 249,
+          "g": 195,
+          "b": 195
+        },
+        "background_color": {
+          "r": 125,
+          "g": 28,
+          "b": 28
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "emph",
+        "color": {
+          "r": 68,
+          "g": 63,
+          "b": 18
+        },
+        "background_color": {
+          "r": 176,
+          "g": 163,
+          "b": 48
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "txit",
+        "color": {
+          "r": 84,
+          "g": 37,
+          "b": 85
+        },
+        "background_color": {
+          "r": 147,
+          "g": 65,
+          "b": 149
+        },
+        "luminance_offset": 0.15
+      }
+    ],
+    "EnableMultipleTags": true,
+    "EnableSeparateBackground": true,
+    "EnableSeparateLuminanceOffset": false,
+    "EnableDarkLightDifference": true,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "LuminanceOffset": 0.15
+    }
+  },
+  "CSS": {
+    "NoteTags": true,
+    "NoteProperties": true,
+    "NoteBackgrounds": false,
+    "TagsNoWrap": true,
+    "TagsNoWrapText": "pre"
+  },
+  "FolderNote": {
+    "Enable": false,
+    "FolderTagLinks": [],
+    "EnableAutoDetect": true,
+    "Values": {
+      "ForceImportant": true,
+      "BorderRadius": "12px",
+      "Padding": "5px",
+      "BackgroundOpacity": 0.45
+    },
+    "EnableBackgroundOpacity": false
+  },
+  "Kanban": {
+    "Enable": false,
+    "EnableCards": false,
+    "EnableLists": false,
+    "HideHashtags": false,
+    "Values": {
+      "CardBackgroundOpacity": 0.2,
+      "CardBorderOpacity": 0.3,
+      "ListBackgroundOpacity": 0.2,
+      "ListBorderOpacity": 0.3,
+      "BackgroundOpacity": 0.45
+    },
+    "EnableBackgroundOpacity": false
+  },
+  "Canvas": {
+    "Enable": false,
+    "Values": {
+      "CardBorderOpacity": 0.3,
+      "CardBackgroundLuminanceOffset": 0.15,
+      "BackgroundOpacity": 0.45
+    },
+    "EnableBackgroundOpacity": false
+  },
+  "Debug": {
+    "Enable": false,
+    "EnableExperimentalCommands": false
+  },
+  "Info": {
+    "SettingsVersion": 14
+  }
+}

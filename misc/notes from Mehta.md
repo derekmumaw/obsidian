@@ -1,0 +1,6 @@
+- really try to visit in person when in Seattle
+- consider reaching out, but may not be a huge benefit
+- UW: Ramesh
+	- Have Stevens call him on my behalf
+- lookup the Spring Breaks (don't come then)
+- ***Update CV and send to Mehta***

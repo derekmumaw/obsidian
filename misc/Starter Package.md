@@ -1,0 +1,36 @@
+
+- [VSCode](https://code.visualstudio.com/): 
+	- IDE
+		- supports VIM
+	- [AutoHotKey](https://www.autohotkey.com/)
+		- general purpose scripting for automation
+		- very clunky (but powerful)
+		- uses
+			- text expansion (rld -> Rohan L Deraniyagala, MD) 
+			- copy mrns from EPIC
+			- open patients in EPIC
+			- move patient between EPIC and Mosaiq
+			- better keyboard shortcuts for navigating notes
+			- copy and process image results
+			- mosaiq dot phrases
+			- extract treatment summary information from Mosaiq
+			- opening up sim 
+	- Python
+		- proper coding language
+		- much more powerful scripting
+		- excellent for stats
+		- highly recommend jupyter notebook
+	- R
+		- probably the best way to do stats
+		- Quinn uses this
+	- [ImageMagik](https://imagemagick.org/index.php)
+		- headless image manipulation
+		- uses
+			- processing treatment images
+			- general image trimming[[]()]()
+		
+- MIM Workflows
+- [Obsidian](https://obsidian.md/)
+	- notes for coders
+	- uses markdown
+	- also supports VIM

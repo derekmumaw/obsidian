@@ -1,0 +1,22 @@
+/* << ------------------ Reading View ------------------ >>
+.markdown-preview-view h1 {
+    font-size: 20px !important;
+}
+.markdown-preview-view h2 {
+    font-size: 16px !important;
+}
+
+/* << ------------ Source View / Live Preview ------------ >> */
+/* .cm-s-obsidian .cm-header.cm-header-1 {
+    font-size: 20px !important;
+}
+.cm-s-obsidian .cm-header.cm-header-2 {
+    font-size: 16px !important;
+}
+
+
+/* LIVE :: Box :: all headlines ✔ */
+.HyperMD-header {
+  /* background-color: lime; */
+  border-bottom: 1px solid var(--white1);
+}

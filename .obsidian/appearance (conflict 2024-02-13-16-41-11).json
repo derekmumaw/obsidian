@@ -1,0 +1,17 @@
+{
+  "accentColor": "#d0c54e",
+  "interfaceFontFamily": "Fira Sans,Fira Code,Consolas,Courier New",
+  "translucency": false,
+  "baseFontSize": 13,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "custom-mermaid",
+    "tag-colors",
+    "callout-spacing",
+    "test-spacing",
+    "table-centered"
+  ]
+}

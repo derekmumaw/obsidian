@@ -1,0 +1,10 @@
+{
+  "accentColor": "#d0c54e",
+  "interfaceFontFamily": "Fira Code,Fira Sans,Consolas,Courier New",
+  "translucency": true,
+  "baseFontSize": 19,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "cssTheme": "Minimal"
+}
