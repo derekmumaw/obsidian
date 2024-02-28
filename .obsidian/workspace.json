@@ -4,7 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "a422ca1d9e44b64c",
+        "id": "5c4b412b6c966987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9691910318cf9bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Boswellia/Literature Review.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "56aed09759aa3082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d60ba261e768a99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/@tangRandomizedProspectiveStudy2011.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6b9117ca9eadc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Boswellia/articles/@kamstraTheraBiteExercisesTreat2013.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e44cb5b93665b067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/@tangRandomizedProspectiveStudy2011.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2528dc50f3f64567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Boswellia/articles/@carvalhoInterventionsPreventingTreating2016.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "65bcdf9c81111ae7",
         "type": "tabs",
         "children": [
           {
@@ -13,9 +92,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
+                "file": "Research/Boswellia/Paper.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
+                "file": "Research/Boswellia/Paper.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
+                "file": "Research/Boswellia/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md"
+                "file": "Research/Boswellia/Paper.md"
               }
             }
           },
@@ -156,8 +235,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46eda1bd43354246",
+  "active": "c72fc933ad89174c",
   "lastOpenFiles": [
+    "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+    "Research/Boswellia/Paper.md",
+    "Literature/@tangRandomizedProspectiveStudy2011.md",
+    "Research/Boswellia/Literature Review.md",
+    "Research/Boswellia/articles/@kamstraTheraBiteExercisesTreat2013.md",
+    "Research/Boswellia/articles/@carvalhoInterventionsPreventingTreating2016.md",
+    "Research/Boswellia/articles/@chuaPilotStudyPentoxifylline2001.md",
+    "Literature/@leeRandomisedFeasibilityStudy2018.md",
+    "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
     "Morning Conference/Palliative/Brain mets/ECRO Brain Mets.md",
     "Morning Conference/Palliative/Brain Metastases/attachments/ECRO_Brain-mets.pdf",
@@ -173,7 +261,6 @@
     "Morning Conference/Palliative/Brain Metastases/RTOG 9005 (SRS dose-escalation).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 0933 (HA-WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/NRG CC001 (WBRT ± HA).md",
-    "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 0614 (WBRT ± Memantine).md",
     "Morning Conference/Palliative/Brain Metastases/Chang (SRS ± WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 9508 (WBRT ± SRS boost).md",
@@ -186,13 +273,6 @@
     "Morning Conference/Palliative/Brain mets/RTOG 0614 (WBRT ± Memantine).md",
     "Morning Conference/Palliative/Brain mets/Aoyama (SRS ± WBRT).md",
     "Morning Conference/Palliative/Brain mets/Chang (SRS ± WBRT).md",
-    "Morning Conference/Palliative/Brain mets/Yamamoto (SRS 5-10 v 2-4).md",
-    "Morning Conference/Palliative/Brain mets/NRG CC001 (WBRT ± HA).md",
-    "Morning Conference/Palliative/Brain mets/RTOG 0933 (HA-WBRT).md",
-    "Morning Conference/Palliative/Brain mets/RTOG 9508 (WBRT ± SRS boost).md",
-    "Morning Conference/Palliative/Brain mets/Patchell II (± postop RT).md",
-    "Morning Conference/Palliative/Brain mets/Patchell I (± Surgery + RT).md",
-    "Morning Conference/Palliative/Brain mets/Quartz (low KPS ± WBRT).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",

@@ -9,7 +9,10 @@
 
 ### Existing Therapies and Effectiveness
 - [[@carvalhoInterventionsPreventingTreating2016]]: Cochrane. Good outline of interventions.
-	- [ ] extract citations from this
+
+#### Ad-hoc
+- [[@shulmanTreatingTrismusDynamic2008]]: tongue depressors
+- [[@leeRandomisedFeasibilityStudy2018]]: wooden spatulas
 
 #### Dynasplint
 - [[@barananoDynasplintManagementTrismus2011]]: Nice mm/day #

@@ -32,7 +32,7 @@ Based on this current best clinical evidence, it can be assumed that exercise th
 | ------------------------------------------------- | ---------------- | ------------------ |
 | [[@pauliExerciseInterventionTreatment2014]]       | 6.4 (4.8-8)      | 10                 |
 | [[@buchbinderMobilizationRegimensPrevention1993]] | 13.6 (10.5-16.7) | 10                 |
-| Tang, 2011                                        | -1.9 (-11.7-7.9) | 12                 |
+| [[@tangRandomizedProspectiveStudy2011]]           | -1.9 (-11.7-7.9) | 12                 |
 | [[@kamstraTheraBiteExercisesTreat2013]]           | 5.4 (1.0-8.0)    | NA                 |
 
 6.4-13.6 mm/10 weeks (0.64 mm/wk, 1.36 mm/wk)
