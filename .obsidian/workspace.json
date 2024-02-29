@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Boswellia/Literature Review.md",
-                "mode": "source",
-                "source": true
+                "file": "Daily notes/2024/02/2024-02-29.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -32,8 +32,8 @@
               "type": "markdown",
               "state": {
                 "file": "Research/Boswellia/Paper.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Daily notes/2024/02/2024-02-29.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Daily notes/2024/02/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Boswellia/Paper.md"
+                "file": "Daily notes/2024/02/2024-02-29.md"
               }
             }
           },
@@ -174,9 +174,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c72fc933ad89174c",
+  "active": "9691910318cf9bd2",
   "lastOpenFiles": [
     "Research/Boswellia/Literature Review.md",
+    "Daily notes/2024/02/2024-02-29.md",
     "Research/Boswellia/Paper.md",
     "Research/Boswellia/attachments/BS_graph.png",
     "Research/Boswellia/attachments/Pasted image 20240228204648.png",

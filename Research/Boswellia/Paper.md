@@ -35,6 +35,9 @@ At the time of the patient's 3-month post-treatment follow up, the patient noted
 The improvement is documented in Figure 3 with day -21 representing his jaw-opening nadir, day 0 his initiation of Therabite®, day 2 his initiation of _BS_, and the subsequent improvement with records ending at day 25. At that point, he had achieved a net improvement in jaw opening of 17 mm, consistent with a 0.68 mm/day rate of improvement. Within 1 week of starting _BS_, the patient also noted resolution of his cervical/submental lymphedema, gingival edema, and improvement in his chronic bilateral knee osteoarthritis which was sustained at the time of his 5-month post-treatment follow up visit (the most recent encounter with the patient).
 
 # Discussion
+
+As described above, here we have a patient with severe trismus who, after initially struggling with passive range of motion exercises—achieving only 1-2 mm of opening, had a dramatic response to combination therapy with Therabite® and *Boswellia serrata*
+
 - Comparison to Pauli (ROC 7.5x) and Buchbinder (3.6x), noting that our patient's performance is 2.9x greater than even the upper limit of the 95% CI. 
 - relate anti-inflammatory properties/target of Boswellia → proposed RT-induced fibrosis/trismus mediators [[@straubRadiationinducedFibrosisMechanisms2015]]
 
