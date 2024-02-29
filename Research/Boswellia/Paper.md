@@ -36,11 +36,12 @@ The improvement is documented in Figure 3 with day -21 representing his jaw-open
 
 # Discussion
 
-As described above, here we have a patient with severe trismus who, after initially struggling with passive range of motion exercises—achieving only 1-2 mm of opening, had a dramatic response to combination therapy with Therabite® and *Boswellia serrata*. Over the course of 25 days, the patient improved his jaw opening from 6 mm to 23 mm: an impressive gain of 17 mm or 0.68 mm/day. 
+As described above, here we have a patient with severe trismus who, after initially struggling with passive range of motion exercises (achieving only 1-2 mm of opening), had a dramatic response to combination therapy with Therabite® and *Boswellia serrata*. Over the course of 25 days, the patient improved his jaw opening from 6 mm to 23 mm: an impressive gain of 17 mm or 0.68 mm/day. 
 
-This is far faster than that previously documented in the literature. This was 7.5 times faster than the rate determined by Pauli et al. [^@pauliExerciseInterventionTreatment2014] and 3.6 times faster than Buchbinder et al. [^@buchbinderMobilizationRegimensPrevention1993]. Even 
+This is far faster than that previously documented in the Therabite® literature: 7.5 times faster than the rate determined by Pauli et al. [^@pauliExerciseInterventionTreatment2014] and 3.6 times faster than Buchbinder et al. [^@buchbinderMobilizationRegimensPrevention1993]. Even the best case scenario, the upper limit of Buchbinder's 95% confidence interval, is 2.9x lower than our patient. Our patient's rate of improvement lies an impressive 4.7 standard deviations above Buchbinder's mean (p<0.00001). 
 
-- Comparison to Pauli (ROC 7.5x) and Buchbinder (3.6x), noting that our patient's performance is 2.9x greater than even the upper limit of the 95% CI. 
+It seems difficult, then, to attribute the patient's rapid improvement solely to his use of the Therabite® system. Within 2 days of initiating Therabite®, the patient also began taking *Boswellia serrata*. As mentioned, BS has a well-documented anti-inflammatory effect, both *in vitro* and *in vivo* with studies identifying ***
+
 - relate anti-inflammatory properties/target of Boswellia → proposed RT-induced fibrosis/trismus mediators [[@straubRadiationinducedFibrosisMechanisms2015]]
 - comment on gingival edema, lymphedema, and arthritic pain reduction
 

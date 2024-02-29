@@ -14,6 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "Daily notes/2024/02/2024-02-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cac2fd3a782dc36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024/02/Interview prep.md",
                 "mode": "preview",
                 "source": false
               }
@@ -57,7 +69,7 @@
               "type": "markdown",
               "state": {
                 "file": "Research/Boswellia/Paper.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+                "file": "Daily notes/2024/02/Interview prep.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+                "file": "Daily notes/2024/02/Interview prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md"
+                "file": "Daily notes/2024/02/Interview prep.md"
               }
             }
           },
@@ -199,12 +211,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d07ea60921eebf1",
+  "active": "cac2fd3a782dc36b",
   "lastOpenFiles": [
-    "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
-    "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
-    "Research/Boswellia/Paper.md",
     "Daily notes/2024/02/2024-02-29.md",
+    "Daily notes/2024/02/Interview prep.md",
+    "Research/Boswellia/Paper.md",
+    "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+    "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
     "Research/Boswellia/Literature Review.md",
     "Research/Boswellia/attachments/BS_graph.png",
     "Research/Boswellia/attachments/Pasted image 20240228204648.png",
@@ -240,7 +253,6 @@
     "Morning Conference/Palliative/Brain Metastases/RTOG 0614 (WBRT ± Memantine).md",
     "Morning Conference/Palliative/Brain Metastases/Chang (SRS ± WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 9508 (WBRT ± SRS boost).md",
-    "Morning Conference/Palliative/Brain Metastases/Patchell II (± postop RT).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
