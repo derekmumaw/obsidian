@@ -28,7 +28,7 @@ For this, the patient underwent definitive chemoradiation therapy with 70 Gy(RBE
 
 ![[tx_plan.png]]
 
-At the time of the patient's 3-month post-treatment follow up, much of the acute, treatment-related side effects had resolved with only mild dysgeusia and mild trismus measured at 22 mm. Over the course of the next  
+At the time of the patient's 3-month post-treatment follow up, much of the acute, treatment-related side effects had resolved with only mild dysgeusia and mild trismus measured at 22 mm. Over the course of the next 3 weeks, the patient's trismus dramatically worsened, nadiring at 4-6 mm. *** At this point, the  
 
 
 [^@dijkstraCriteriaTrismusHead2006]: [[@dijkstraCriteriaTrismusHead2006]]
