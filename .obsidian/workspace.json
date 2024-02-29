@@ -32,8 +32,8 @@
               "type": "markdown",
               "state": {
                 "file": "Research/Boswellia/Paper.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -176,10 +176,13 @@
   },
   "active": "c72fc933ad89174c",
   "lastOpenFiles": [
-    "Research/Boswellia/attachments/dx_imaging.png",
-    "Research/Boswellia/attachments/tx_plan.png",
     "Research/Boswellia/Literature Review.md",
     "Research/Boswellia/Paper.md",
+    "Research/Boswellia/attachments/BS_graph.png",
+    "Research/Boswellia/attachments/Pasted image 20240228204648.png",
+    "Research/Boswellia/articles/@pauliExerciseInterventionTreatment2014.md",
+    "Research/Boswellia/attachments/dx_imaging.png",
+    "Research/Boswellia/attachments/tx_plan.png",
     "Literature/@siddiquiBoswelliaSerrataPotential2011.md",
     "Literature/@straubRadiationinducedFibrosisMechanisms2015.md",
     "Literature/@gayathriPureCompoundBoswellia2007.md",
@@ -212,16 +215,12 @@
     "Morning Conference/Palliative/Brain Metastases/RTOG 9508 (WBRT ± SRS boost).md",
     "Morning Conference/Palliative/Brain Metastases/Patchell II (± postop RT).md",
     "Morning Conference/Palliative/Brain Metastases/Patchell I (± Surgery + RT).md",
-    "Morning Conference/Palliative/Brain Metastases/Quartz (low KPS ± WBRT).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
     "Research/SPArtifact/attachments/img_Abstract_fig1.png",
     "Research/Boswellia/articles/attachments/img_@shulmanTreatingTrismusDynamic2008_results.png",
     "Research/SPArtifact/attachments/img_Abstract_6.png",
-    "Research/SPArtifact/attachments/img_Abstract_5.png",
-    "Research/SPArtifact/attachments/img_Abstract_4.png",
-    "Research/SPArtifact/attachments/img_Abstract_3.png",
     "Morning Conference/CNS/GBM/Untitled.canvas"
   ]
 }
