@@ -36,10 +36,13 @@ The improvement is documented in Figure 3 with day -21 representing his jaw-open
 
 # Discussion
 
-As described above, here we have a patient with severe trismus who, after initially struggling with passive range of motion exercises—achieving only 1-2 mm of opening, had a dramatic response to combination therapy with Therabite® and *Boswellia serrata*
+As described above, here we have a patient with severe trismus who, after initially struggling with passive range of motion exercises—achieving only 1-2 mm of opening, had a dramatic response to combination therapy with Therabite® and *Boswellia serrata*. Over the course of 25 days, the patient improved his jaw opening from 6 mm to 23 mm: an impressive gain of 17 mm or 0.68 mm/day. 
+
+This is far faster than that previously documented in the literature. This was 7.5 times faster than the rate determined by Pauli et al. [^@pauliExerciseInterventionTreatment2014] and 3.6 times faster than Buchbinder et al. [^@buchbinderMobilizationRegimensPrevention1993]. Even 
 
 - Comparison to Pauli (ROC 7.5x) and Buchbinder (3.6x), noting that our patient's performance is 2.9x greater than even the upper limit of the 95% CI. 
 - relate anti-inflammatory properties/target of Boswellia → proposed RT-induced fibrosis/trismus mediators [[@straubRadiationinducedFibrosisMechanisms2015]]
+- comment on gingival edema, lymphedema, and arthritic pain reduction
 
 [^@dijkstraCriteriaTrismusHead2006]: [[@dijkstraCriteriaTrismusHead2006]]
 [^@weberLimitedMouthOpening2010]: [[@weberLimitedMouthOpening2010]]

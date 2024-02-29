@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d07ea60921eebf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b097897baa9901a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "65bcdf9c81111ae7",
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/02/2024-02-29.md",
+                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/02/2024-02-29.md",
+                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/02/2024-02-29.md"
+                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md"
               }
             }
           },
@@ -174,11 +199,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9691910318cf9bd2",
+  "active": "2d07ea60921eebf1",
   "lastOpenFiles": [
-    "Research/Boswellia/Literature Review.md",
-    "Daily notes/2024/02/2024-02-29.md",
+    "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
+    "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
     "Research/Boswellia/Paper.md",
+    "Daily notes/2024/02/2024-02-29.md",
+    "Research/Boswellia/Literature Review.md",
     "Research/Boswellia/attachments/BS_graph.png",
     "Research/Boswellia/attachments/Pasted image 20240228204648.png",
     "Research/Boswellia/articles/@pauliExerciseInterventionTreatment2014.md",
@@ -190,7 +217,6 @@
     "Literature/@lulliAcetyl11ketovboswellicAcidReduces2015.md",
     "Literature/@safayhiBoswellicAcidsNovel1992.md",
     "Research/Boswellia/articles/@carvalhoInterventionsPreventingTreating2016.md",
-    "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
     "Literature/@tangRandomizedProspectiveStudy2011.md",
     "Research/Boswellia/articles/@kamstraTheraBiteExercisesTreat2013.md",
     "Research/Boswellia/articles/@chuaPilotStudyPentoxifylline2001.md",
@@ -215,7 +241,6 @@
     "Morning Conference/Palliative/Brain Metastases/Chang (SRS ± WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 9508 (WBRT ± SRS boost).md",
     "Morning Conference/Palliative/Brain Metastases/Patchell II (± postop RT).md",
-    "Morning Conference/Palliative/Brain Metastases/Patchell I (± Surgery + RT).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",

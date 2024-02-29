@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
-                "mode": "source",
+                "file": "Daily notes/2024/02/2024-02-29.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
+            "file": "Daily notes/2024/02/2024-02-29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
+            "file": "Daily notes/2024/02/2024-02-29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md"
+            "file": "Daily notes/2024/02/2024-02-29.md"
           }
         }
       },
@@ -140,8 +140,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86704b4bec1c34f7",
+  "active": "604ba32a36f0dcec",
   "lastOpenFiles": [
+    "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
     "Morning Conference/Palliative/Brain mets/attachments/12 N107C (2017).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/13 ASTRO Guideline Brain Mets (2022).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/12 N107C (2017).pdf",
@@ -152,8 +153,6 @@
     "Morning Conference/Palliative/Brain Metastases/attachments/07 RTOG 0614 (2013).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/06 Chang MDA (2009).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/05 Aoyama (2006).pdf",
-    "Morning Conference/Palliative/Brain Metastases/attachments/02 Patchell I (1990).pdf",
-    "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 9005 (SRS dose-escalation).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 0933 (HA-WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/Vecht.md",
