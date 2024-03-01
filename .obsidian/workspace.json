@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9691910318cf9bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2024/02/2024-02-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "670da2fdf83a20ec",
             "type": "leaf",
             "state": {
@@ -30,16 +18,27 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "69cbdcf97be79e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/prep for Mehta.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ab8952e97b7f46ef",
         "type": "tabs",
         "children": [
           {
-            "id": "69cbdcf97be79e9b",
+            "id": "30adf67dfd4a437b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,10 +186,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69cbdcf97be79e9b",
+  "active": "30adf67dfd4a437b",
   "lastOpenFiles": [
     "misc/Interview questions.md",
     "misc/TIROG satellite.md",
+    "misc/prep for Mehta.md",
+    "misc/attachments/20240131_123156.jpg",
+    "misc/attachments/DMumaw_CV 1.pdf",
+    "misc/attachments/DMumaw_CV.pdf",
     "Daily notes/2024/02/2024-02-29.md",
     "Morning Conference/CNS/GBM/Elderly & Frail/Nordic (60in30 v 34in10 v TMZ).md",
     "Morning Conference/CNS/GBM/Elderly & Frail/-French (Sx. Obs v RT).md",
@@ -225,16 +228,12 @@
     "Morning Conference/Palliative/Brain Metastases/attachments/08 RTOG 0933 (2014).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/05 Aoyama (2006).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/04 RTOG 9508 (2004).pdf",
-    "Morning Conference/Palliative/Brain Metastases/attachments/07 RTOG 0614 (2013).pdf",
-    "Morning Conference/Palliative/Brain Metastases/attachments/06 Chang MDA (2009).pdf",
     "Morning Conference/Palliative/Brain Metastases/RTOG 9005 (SRS dose-escalation).md",
-    "Morning Conference/Palliative/Brain Metastases/RTOG 0933 (HA-WBRT).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
     "Research/SPArtifact/attachments/img_Abstract_fig1.png",
     "Research/Boswellia/articles/attachments/img_@shulmanTreatingTrismusDynamic2008_results.png",
-    "Research/SPArtifact/attachments/img_Abstract_6.png",
     "Morning Conference/CNS/GBM/Untitled.canvas"
   ]
 }

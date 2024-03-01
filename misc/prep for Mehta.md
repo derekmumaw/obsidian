@@ -1,4 +1,4 @@
-## Write Elevator Pitch
+## Elevator Pitch
 ### Background/education
 - from the Detroit area, I grew up going to lake Michigan tubing, wakesurfing, and sailing.
 - I went to undergrad in Chicago where I studied Biology.
@@ -14,8 +14,8 @@
 	- We also just opened up our Pluvicto program here and I'm almost ready for certification for that.
 	- My mentor here is the proton director and so I've ended up getting a ton of pediatric cases: I'm up to 40 at this point. I wasn't expecting to enjoy it as much as I have.
 - This year is my research year and I was fortunate to get a publication in the green journal back in October. I've got a couple of projects that I'm working on with our physics team focusing on rotational protons which will hopefully get me out to PTCOG this summer.
-- But yeah, I've had a good experience so far but I'm getting close to 5th year and I figured it wouldn't hurt to try to get a head start on the job search to see what's out there, especially in the Seattle area. 
-- My wife's whole family is out there, as you know, and so she's obviously itching to get out there, but really so am I! I've really loved every time I've been able to visit. I love being on the water but also having mountains nearby and, outside of that year in Tahoe, I've never really been able to get both of those things in the same area. And of course, the city itself is a huge bonus. 
+- But yeah, I've had a good experience so far but I'm getting close to 5th year and I figured it wouldn't hurt to try to get a head start on the job search to see what's out there, especially in the Seattle area.
+- My wife's whole family is out there, as you know, and so she's obviously itching to get out there, but really so am I! I've really loved every time I've been able to visit. I love being on the water but also having mountains nearby and, outside of that year in Tahoe, I've never really been able to get both of those things in the same area. And of course, the city itself is a huge bonus.
 
 ## Come up with Questions
 - Seems like a crazy year with all the openings. Do you think that's a good sign for next year? or is that a one-off?
