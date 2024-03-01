@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "30adf67dfd4a437b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/TIROG satellite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "670da2fdf83a20ec",
             "type": "leaf",
             "state": {
@@ -28,24 +40,6 @@
                 "file": "misc/prep for Mehta.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ab8952e97b7f46ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30adf67dfd4a437b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/TIROG satellite.md",
-                "mode": "source",
-                "source": true
               }
             }
           }
@@ -99,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bafc0931aef148e",
