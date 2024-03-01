@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "cac2fd3a782dc36b",
+            "id": "670da2fdf83a20ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/02/Interview prep.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d07ea60921eebf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b097897baa9901a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
+                "file": "misc/Interview questions.md",
                 "mode": "source",
                 "source": true
               }
@@ -59,18 +35,18 @@
         "currentTab": 1
       },
       {
-        "id": "65bcdf9c81111ae7",
+        "id": "ab8952e97b7f46ef",
         "type": "tabs",
         "children": [
           {
-            "id": "c72fc933ad89174c",
+            "id": "69cbdcf97be79e9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
-                "mode": "preview",
-                "source": false
+                "file": "misc/TIROG satellite.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -140,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024/02/Interview prep.md",
+                "file": "misc/TIROG satellite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024/02/Interview prep.md",
+                "file": "misc/TIROG satellite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024/02/Interview prep.md"
+                "file": "misc/TIROG satellite.md"
               }
             }
           },
@@ -211,9 +187,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cac2fd3a782dc36b",
+  "active": "69cbdcf97be79e9b",
   "lastOpenFiles": [
+    "misc/Interview questions.md",
+    "misc/TIROG satellite.md",
     "Daily notes/2024/02/2024-02-29.md",
+    "Morning Conference/CNS/GBM/Elderly & Frail/Nordic (60in30 v 34in10 v TMZ).md",
+    "Morning Conference/CNS/GBM/Elderly & Frail/-French (Sx. Obs v RT).md",
     "Daily notes/2024/02/Interview prep.md",
     "Research/Boswellia/Paper.md",
     "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
@@ -249,10 +229,6 @@
     "Morning Conference/Palliative/Brain Metastases/attachments/06 Chang MDA (2009).pdf",
     "Morning Conference/Palliative/Brain Metastases/RTOG 9005 (SRS dose-escalation).md",
     "Morning Conference/Palliative/Brain Metastases/RTOG 0933 (HA-WBRT).md",
-    "Morning Conference/Palliative/Brain Metastases/NRG CC001 (WBRT ± HA).md",
-    "Morning Conference/Palliative/Brain Metastases/RTOG 0614 (WBRT ± Memantine).md",
-    "Morning Conference/Palliative/Brain Metastases/Chang (SRS ± WBRT).md",
-    "Morning Conference/Palliative/Brain Metastases/RTOG 9508 (WBRT ± SRS boost).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
