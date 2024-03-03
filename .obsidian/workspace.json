@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "misc/TIROG satellite.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bafc0931aef148e",

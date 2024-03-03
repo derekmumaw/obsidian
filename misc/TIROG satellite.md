@@ -37,3 +37,13 @@ critical resource hospital
 
 ## CV
 ![[DMumaw_CV.pdf]]
+
+# Response email
+Good evening, Dr. Loiselle,
+
+I very much enjoyed our conversation and getting to meet you on Friday. I was also very grateful to you for taking the time to tell me about the Jefferson opportunity! After reflecting on our conversation, many Google Maps and Zillow searches with my wife, and conversations with my mentors, it seems like it would be an excellent fit for me and something I would definitely be interested in pursuing further. 
+
+I believe at the end of our conversation you mentioned that it may be possible to talk to the Jefferson team; if this is still an option, I would love to talk with them!
+
+Thanks again,
+-Derek Mumaw
