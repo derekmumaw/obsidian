@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "6bafc0931aef148e",
@@ -183,9 +182,11 @@
   },
   "active": "30adf67dfd4a437b",
   "lastOpenFiles": [
+    "Morning Conference/CNS/GBM/recurrent/re-RT/Fokas (FSRT re-RT).md",
+    "Morning Conference/CNS/GBM/recurrent/re-RT/Wisconsin (PRD-RT re-RT).md",
     "misc/Interview questions.md",
-    "misc/TIROG satellite.md",
     "misc/prep for Mehta.md",
+    "misc/TIROG satellite.md",
     "misc/attachments/20240131_123156.jpg",
     "misc/attachments/DMumaw_CV 1.pdf",
     "misc/attachments/DMumaw_CV.pdf",
@@ -214,7 +215,6 @@
     "Literature/@leeRandomisedFeasibilityStudy2018.md",
     "Morning Conference/Palliative/Brain Metastases/Aoyama (SRS ± WBRT).md",
     "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
-    "Morning Conference/Palliative/Brain mets/ECRO Brain Mets.md",
     "Morning Conference/Palliative/Brain Metastases/attachments/ECRO_Brain-mets.pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/12 N107C (2017).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/10 Yamamoto (2014).pdf",
@@ -223,7 +223,6 @@
     "Morning Conference/Palliative/Brain Metastases/attachments/08 RTOG 0933 (2014).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/05 Aoyama (2006).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/04 RTOG 9508 (2004).pdf",
-    "Morning Conference/Palliative/Brain Metastases/RTOG 9005 (SRS dose-escalation).md",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
