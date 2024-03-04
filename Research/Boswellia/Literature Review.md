@@ -64,5 +64,9 @@
 
 ## Discussion
 - relate anti-inflammatory properties/target of Boswellia → proposed RT-induced fibrosis/trismus mediators [[@straubRadiationinducedFibrosisMechanisms2015]]
+- [[@fujinoAdministrationSpecificInhibitor2012]] elastase inhibition prevents pulmonary fibrosis in mice
+- [[@shamsOverexpressionVEGFDermal2022]] VEGF upregulates fibroblast activity
+- [[@lin5LipoxygenaseInhibitorsAttenuate2014]] 5-lipoxygenase is implicated in TNF-alpha-induced inflammation and fibroblast activation
+- 
 
 ## Lesons/Conclusions
