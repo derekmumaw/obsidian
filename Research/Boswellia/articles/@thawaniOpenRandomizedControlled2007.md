@@ -8,7 +8,7 @@ doi:
 moc: 
 ---
 >[!info]
-[Open, randomized, controlled clinical trial of Boswellia serrata extract as compared to valdecoxib in osteoarthritis of knee](https://pubmed.ncbi.nlm.nih.gov//)
+[Open, randomized, controlled clinical trial of Boswellia serrata extract as compared to valdecoxib in osteoarthritis of knee](https://www.bioline.org.br/pdf?ph07006)
 V. Thawani, S. Sontakke
 ****. 2007
 

@@ -11,8 +11,9 @@
     "custom-mermaid",
     "tag-colors",
     "callout-spacing",
-    "test-spacing",
     "table-centered",
-    "custom-fonts"
+    "custom-fonts",
+    "test-spacing",
+    "text-spacing"
   ]
 }

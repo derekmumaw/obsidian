@@ -1,10 +1,11 @@
 # Authors
 D.A. Mumaw, T.M. Nassif, M. Witsil, R.L. Deraniyagala
+
 ## Introduction
 ### Trismus Definition and Impact
 Trismus is a pathologic restriction in jaw opening, defined as an opening of less than or equal to 35 mm [^@dijkstraCriteriaTrismusHead2006], typically caused by fibrosis following surgery and/or radiation, or—more rarely—as a result of direct tumor involvement of the masticatory muscles. It is a common problem in head and neck cancer treatment: approximately 50% of patients who undergo definitive treatment involving radiation therapy will meet the Djikstra definition for trismus[^@weberLimitedMouthOpening2010][^@louisekentRadiationInducedTrismusHead2008]; oropharyngeal disease is particularly prone with nearly 2/3rds meeting the definition [^@weberLimitedMouthOpening2010]. Not only is trismus common, it also substantially degrades quality of life with significant detriments to mouth opening, chewing, food intake, and overall quality of life [^@louisekentRadiationInducedTrismusHead2008][^@scottFactorsAssociatedRestricted2008].
 - [ ] expand with more references
-- [ ] 
+
 ### Existing Therapies and Effectiveness
 There are a number of management options for patients experiencing trismus. Perhaps most important is physical therapy which plays an integral role in the management of trismus with interventions including both passive and active range of motion exercises as well as electrotherapy. Passive range of motion exercises are often performed using devices which provide a controlled opening force to the jaw. These can be ad-hoc—as in stacked tongue depressors or wooden spatulas[^@shulmanTreatingTrismusDynamic2008][^@leeRandomisedFeasibilityStudy2018]—or commercially produced—such as the Therabite® and Dynasplint® systems.
 
@@ -17,7 +18,7 @@ _Boswellia serrata_ (_BS_) is a tree native to North Africa, the Middle East, an
 
 These _in vitro_ anti-inflammatory effects have translated to _in vivo_ benefits. One of the first studies was of asthma: Gupta et al. [^@guptaEffectsBoswelliaSerrata1998]performed a double-blind, randomized controlled trial where _BS_ was shown to result in 70% symptomatic improvement compared to 27% in the control arm. Gerhardt et al. [^@gerhardtTherapyActiveCrohn2001] showed _BS_ to be non-inferior to mesalazine in Crohn's disease and Madisch et al. [^@madischBoswelliaSerrataExtract2007] showed an absolute 37% increase in the rate of clinical remission of Collagenous colitis. Kimmatkar et al.[^@kimmatkarEfficacyTolerabilityBoswellia2003] and Thawani et al. [^@thawaniOpenRandomizedControlled2007] both performed randomized controlled trials of _BS_ in osteoarthritis and found improvements in pain, movement, swelling, and ability to accomplish activities of daily living. Most recently, there has been a surge of interest in _BS_ in the setting of post-radiation edema following partial-brain and whole-brain radiation therapy. Retrospective reviews, case reports, and case series have documented a substantial reduction in cerebral edema with _BS_ [^@RoleBoswelliaSerrata][^@warnickTreatmentAdverseRadiation2023][^@dipierroNovelLecithinbasedDelivery2019]. Kirste et al. [^@kirsteBoswelliaSerrataActs2011] performed a randomized controlled trial which demonstrated a >75% reduction in cerebral edema in 60% of patients receiving _BS_ (compared to only 26% receiving placebo).
 
-- [ ] side effects 
+In these studies, toxicity of _BS_ was minimal and mild. None of the studies discussed reported any serious adverse event. Most reported mild non-specific gastrointestinal symptoms: Madisch et al. reported one patient (6.25%) with mild dizziness, hypoglycemia, and lack of appetite and another who developed persistent diarrhea and bacterial enteritis[^@madischBoswelliaSerrataExtract2007]; Kimmatkar et al. reported one patient (3%) with loose bowel movements and another developed epigastric pain and nausea[^@kimmatkarEfficacyTolerabilityBoswellia2003]; Thawani et al. reported three patients with reflux, and one patient (3%) with diarrhea and abdominal cramps[^@thawaniOpenRandomizedControlled2007]; finally, Kirste et al. reported 6 patients (27%) with grade 1-2 diarrhea.
 
 To our knowledge, there have been no reports documenting the use of _BS_ in treating trismus. Herein, we provide a case report of _BS_ augmenting passive range of motion interventions leading to the rapid resolution of the patient's trismus.
 
@@ -31,7 +32,7 @@ For this, the patient underwent definitive chemoradiation therapy with 70 Gy(RBE
 
 ![[tx_plan.png]]
 
-At the time of the patient's 3-month post-treatment follow up, the patient noted the development of mild bilateral cervical and submental lymphedema; however, much of the acute, treatment-related side effects had resolved with only mild dysgeusia and mild trismus measured at 22 mm. Over the course of the next 3 weeks, the patient's trismus dramatically worsened, nadiring at 4-6 mm. Passive range of motion exercises using a custom-made tongue depressor fulcrum device were started with minimal improvement.  {PT interventions. Need notes from Melissa}. The patient met with his otolaryngologist who recommended referral for coronoidectomy. Motivated by a desire to avoid surgery the patient began treatment with the Therabite® system. Two days later, the patient began treatment with _Boswellia serrata_ (4.5 grams per day).
+At the time of the patient's 3-month post-treatment follow up, the patient noted the development of mild bilateral cervical and submental lymphedema; however, much of the acute, treatment-related side effects had resolved with only mild dysgeusia and mild trismus measured at 22 mm. Over the course of the following 3 weeks, the patient's trismus dramatically worsened, nadiring at 4-6 mm. Passive range of motion exercises using a custom-made tongue depressor fulcrum device were started with minimal improvement.  {PT interventions. Need notes from Melissa}. The patient met with his otolaryngologist who recommended referral for coronoidectomy. Motivated by a desire to avoid surgery the patient began treatment with the Therabite® system. Two days later, the patient began treatment with _Boswellia serrata_ (4.5 grams per day).
 
 ![[BS_graph.png#invert]]
 
@@ -47,7 +48,7 @@ It seems difficult, then, to attribute the patient's rapid improvement solely to
 
 We also see several other systemic effects that support this anti-inflammatory hypothesis. Within a week of initiating treatment with _BS_, the patient noted substantial improvement in his gingival edema, cervical lymphedema, and arthritic pain. These, of course, cannot be explained by the Therabite®, and the abruptness and concurrence of the recovery for each issue is inconsistent with a spontaneous resolution. This is, again, suggestive of a strong anti-inflammatory effect with _Boswellia serrata_.
 
-- [ ] side effects
+When considering the added value of any new therapy, it is also important to consider its side effects. In the case of _Boswellia serrata_, there are no documented serious adverse effects, only mild gastrointestinal symptoms like nausea and diarrhea. This stands in contrast to the other available systemic agents for trismus: pentoxifylline is associated with gastrointestinal (discomfort, bloating, and diarrhea), neurologic (dizziness, headache), and cardiovascular (flushing, arrhythmias, etc.) side effects [^@annamarajuPentoxifylline2024] while botulinum toxin may cause injection-site pain, edema, erythema, ecchymosis, and hypo/hypesthesia as well as more serious side effects such as muscle spasms, headaches,  denervation, and dysphagia. _Boswellia serrata_ is both more effective and less side effect prone.
 
 # Conclusion
 Given the extremely detrimental effects of trismus on quality of life and the slow, modest gains effected by the current suite of treatments, there is an unmet need for additional therapies. We believe that _Boswellia serrata_ may meet this need, as suggested by our patient's dramatic recovery of jaw mobility. Though this is the first documented use in the setting of trismus, it is consistent with the literature which has documented an impressive range of effect in several disease processes whilst carrying a minimal risk of mild side effects. Further studies are needed to explore the role of _Boswellia serrata_ for the treatment of trismus and prospective studies may be justified to quantify its benefit.
@@ -88,3 +89,4 @@ Given the extremely detrimental effects of trismus on quality of life and the sl
 [^@straubRadiationinducedFibrosisMechanisms2015]: [[@straubRadiationinducedFibrosisMechanisms2015]]
 [^@liuNFkBSignalingInflammation2017]: [[@liuNFkBSignalingInflammation2017]]
 [^@shamsOverexpressionVEGFDermal2022]: [[@shamsOverexpressionVEGFDermal2022]]
+[^@annamarajuPentoxifylline2024]: [[@annamarajuPentoxifylline2024]]

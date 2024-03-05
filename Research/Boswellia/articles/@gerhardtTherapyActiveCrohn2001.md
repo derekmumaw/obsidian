@@ -8,7 +8,7 @@ pmid: 11215357
 moc: 
 ---
 >[!info]
-[[Therapy of active Crohn disease with Boswellia serrata extract H 15]](https://pubmed.ncbi.nlm.nih.gov/11215357/)
+[Therapy of active Crohn disease with Boswellia serrata extract H 15](https://pubmed.ncbi.nlm.nih.gov/11215357/)
 H. Gerhardt, F. Seifert, P. Buvari, H. Vogelsang, R. Repges
 **Zeitschrift Fur Gastroenterologie**. 2001
 

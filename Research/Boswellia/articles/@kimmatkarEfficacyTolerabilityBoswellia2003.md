@@ -8,7 +8,7 @@ doi: 10.1078/094471103321648593
 moc: 
 ---
 >[!info]
-[Efficacy and tolerability of <i>Boswellia Serrata</i> extract in treatment of osteoarthritis of knee – a randomized double blind placebo controlled trial](https://pubmed.ncbi.nlm.nih.gov//)
+[Efficacy and tolerability of <i>Boswellia Serrata</i> extract in treatment of osteoarthritis of knee – a randomized double blind placebo controlled trial](https://pubmed.ncbi.nlm.nih.gov/12622457/)
 N. Kimmatkar, V. Thawani, L. Hingorani, R. Khiyani
 **Phytomedicine**. 2003
 

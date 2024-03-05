@@ -8,7 +8,7 @@ doi: 10.1007/s00384-007-0364-1
 moc: 
 ---
 >[!info]
-[Boswellia serrata extract for the treatment of collagenous colitis. A double-blind, randomized, placebo-controlled, multicenter trial](https://pubmed.ncbi.nlm.nih.gov//)
+[Boswellia serrata extract for the treatment of collagenous colitis. A double-blind, randomized, placebo-controlled, multicenter trial](https://pubmed.ncbi.nlm.nih.gov/17764013/)
 Ahmed Madisch, Stephan Miehlke, Otto Eichele, Jenny Mrwa, Birgit Bethke, Eberhard Kuhlisch, Elke Bästlein, Georg Wilhelms, Andrea Morgner, Bernd Wigginghaus, Manfred Stolte
 **International Journal of Colorectal Disease**. 2007
 

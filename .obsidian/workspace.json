@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5c4b412b6c966987",
+        "id": "75cf643ec310d833",
         "type": "tabs",
         "children": [
-          {
-            "id": "30adf67dfd4a437b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/TIROG satellite.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
           {
             "id": "ab75f9f9c5620a85",
             "type": "leaf",
@@ -26,61 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "Research/Boswellia/Paper.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5c4b412b6c966987",
+        "type": "tabs",
+        "children": [
           {
-            "id": "574da281a61827cb",
+            "id": "ba7ca849f1670c18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
+                "file": "Research/Boswellia/Paper.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "13acb5dd14a8e490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/SPArtifact/Abstract.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e3ad61cb1171ffa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/SPArtifact/Agenda.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fe7ce92fff0548e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/SPArtifact/Patients.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bafc0931aef148e",
@@ -202,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,20 +176,27 @@
   },
   "active": "ab75f9f9c5620a85",
   "lastOpenFiles": [
-    "Research/Boswellia/attachments/BS_graph.png",
-    "misc/TIROG satellite.md",
+    "Literature/@annamarajuPentoxifylline2024.md",
     "Research/Boswellia/Paper.md",
+    "Research/Boswellia/Literature Review.md",
+    "Research/Boswellia/articles/@kimmatkarEfficacyTolerabilityBoswellia2003.md",
+    "Research/Boswellia/articles/@thawaniOpenRandomizedControlled2007.md",
+    "Research/Boswellia/articles/@madischBoswelliaSerrataExtract2007.md",
+    "Research/Boswellia/articles/@gerhardtTherapyActiveCrohn2001.md",
+    "Research/Boswellia/articles/Therapy of active Crohn disease with Boswellia serrata extract H 15.md",
+    "Research/Boswellia/articles/@guptaEffectsBoswelliaSerrata1998.md",
+    "Research/SPArtifact/Patients.md",
+    "misc/TIROG satellite.md",
+    "Research/Boswellia/attachments/BS_graph.png",
     "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
     "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
     "Research/SPArtifact/Abstract.md",
     "Research/SPArtifact/Agenda.md",
-    "Research/SPArtifact/Patients.md",
     "Literature/@straubRadiationinducedFibrosisMechanisms2015.md",
     "Literature/@shamsOverexpressionVEGFDermal2022.md",
     "Literature/@fujinoAdministrationSpecificInhibitor2012.md",
     "Literature/@liuNFkBSignalingInflammation2017.md",
     "Literature/@lin5LipoxygenaseInhibitorsAttenuate2014.md",
-    "Research/Boswellia/Literature Review.md",
     "misc/Interview questions.md",
     "misc/Billing.md",
     "Morning Conference/CNS/GBM/recurrent/re-RT/Fokas (FSRT re-RT).md",
@@ -240,15 +206,9 @@
     "misc/attachments/DMumaw_CV 1.pdf",
     "misc/attachments/DMumaw_CV.pdf",
     "Daily notes/2024/02/2024-02-29.md",
-    "Morning Conference/CNS/GBM/Elderly & Frail/Nordic (60in30 v 34in10 v TMZ).md",
-    "Morning Conference/CNS/GBM/Elderly & Frail/-French (Sx. Obs v RT).md",
-    "Daily notes/2024/02/Interview prep.md",
     "Research/Boswellia/attachments/Pasted image 20240228204648.png",
-    "Research/Boswellia/articles/@pauliExerciseInterventionTreatment2014.md",
     "Research/Boswellia/attachments/dx_imaging.png",
     "Research/Boswellia/attachments/tx_plan.png",
-    "Literature/@siddiquiBoswelliaSerrataPotential2011.md",
-    "Literature/@gayathriPureCompoundBoswellia2007.md",
     "Morning Conference/Palliative/Brain Metastases/attachments/ECRO_Brain-mets.pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/12 N107C (2017).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/10 Yamamoto (2014).pdf",

@@ -10,3 +10,11 @@ body {
     --p-spacing: 0.5rem;
     --heading-spacing: 1.5rem;
 }
+
+/* Stop footnotes affecting line height */
+sup { 
+    vertical-align: top; 
+    position: relative; 
+    top: -0.3em; 
+    font-size: 0.75em; 
+}
