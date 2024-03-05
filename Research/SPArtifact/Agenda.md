@@ -37,3 +37,13 @@
 ## Paper
 - [ ] Merge Weili's introduction (especially proton interaction with the implant itself)
 - [ ] Expand clinical implications section
+
+# Notes from 3/5
+- Using similar OAR constraints, we get better target coverage with SPArc
+- "metal as avoidance structure" produces a greater advantage with SPArc
+	- problems are not nearly as apparent when "shooting through" with IMPT. 
+	- Much more applicable with SS or denser. 
+	- This is a point in the discussion (and briefly methods)
+- Photon-IMPT mix would be a nice 3rd arm
+	- 1/3 photons to fill in the cold spots from IMPT
+	- maybe for the next plan

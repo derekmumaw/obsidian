@@ -30,81 +30,38 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "950bda0b5a022941",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "41979de5fee1ef31",
+            "id": "13acb5dd14a8e490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Boswellia/Literature Review.md",
+                "file": "Research/SPArtifact/Abstract.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "fc4042fa2b0b5583",
+            "id": "e3ad61cb1171ffa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/@lin5LipoxygenaseInhibitorsAttenuate2014.md",
+                "file": "Research/SPArtifact/Agenda.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "711bc66bc310ad09",
+            "id": "fe7ce92fff0548e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/@fujinoAdministrationSpecificInhibitor2012.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6278a0f6eaf19a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/@straubRadiationinducedFibrosisMechanisms2015.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4fe4856c6148f6e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/@liuNFkBSignalingInflammation2017.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7f627d92b77fd660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/@shamsOverexpressionVEGFDermal2022.md",
+                "file": "Research/SPArtifact/Patients.md",
                 "mode": "source",
                 "source": true
               }
@@ -177,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Research/SPArtifact/Agenda.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Research/SPArtifact/Agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Boswellia/Paper.md"
+                "file": "Research/SPArtifact/Agenda.md"
               }
             }
           },
@@ -248,10 +205,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd03e781914b43bf",
+  "active": "e3ad61cb1171ffa5",
   "lastOpenFiles": [
-    "Literature/@straubRadiationinducedFibrosisMechanisms2015.md",
+    "Research/SPArtifact/Patients.md",
+    "Research/SPArtifact/Agenda.md",
+    "Research/SPArtifact/Abstract.md",
     "Research/Boswellia/Paper.md",
+    "Literature/@straubRadiationinducedFibrosisMechanisms2015.md",
     "Literature/@shamsOverexpressionVEGFDermal2022.md",
     "Literature/@fujinoAdministrationSpecificInhibitor2012.md",
     "Literature/@liuNFkBSignalingInflammation2017.md",
@@ -280,9 +240,6 @@
     "Literature/@siddiquiBoswelliaSerrataPotential2011.md",
     "Literature/@gayathriPureCompoundBoswellia2007.md",
     "Literature/@lulliAcetyl11ketovboswellicAcidReduces2015.md",
-    "Literature/@safayhiBoswellicAcidsNovel1992.md",
-    "Research/Boswellia/articles/@carvalhoInterventionsPreventingTreating2016.md",
-    "Literature/@tangRandomizedProspectiveStudy2011.md",
     "Morning Conference/Palliative/Brain Metastases/attachments/ECRO_Brain-mets.pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/12 N107C (2017).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/10 Yamamoto (2014).pdf",
