@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024/02/2024-02-29.md",
+                "file": "misc/TIROG satellite.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily notes/2024/02/2024-02-29.md",
+            "file": "misc/TIROG satellite.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily notes/2024/02/2024-02-29.md",
+            "file": "misc/TIROG satellite.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily notes/2024/02/2024-02-29.md"
+            "file": "misc/TIROG satellite.md"
           }
         }
       },
@@ -142,6 +142,12 @@
   },
   "active": "604ba32a36f0dcec",
   "lastOpenFiles": [
+    "misc/Billing.md",
+    "Literature/@shamsOverexpressionVEGFDermal2022.md",
+    "Literature/@liuNFkBSignalingInflammation2017.md",
+    "Literature/@fujinoAdministrationSpecificInhibitor2012.md",
+    "Literature/@lin5LipoxygenaseInhibitorsAttenuate2014.md",
+    "Daily notes/2024/02/2024-02-29.md",
     "Morning Conference/Palliative/Brain Metastases/Yamamoto (SRS 5-10 v 2-4).md",
     "Morning Conference/Palliative/Brain mets/attachments/12 N107C (2017).pdf",
     "Morning Conference/Palliative/Brain Metastases/attachments/13 ASTRO Guideline Brain Mets (2022).pdf",
@@ -172,11 +178,6 @@
     "Morning Conference/H&N/Larynx, Hypopharynx/ECRO Larynx, Hypopharynx.md",
     "Morning Conference/H&N/Oral Cavity/ECRO Oral Cavity.md",
     "Morning Conference/H&N/Oral Cavity/EORTC 22931 (adjRT ± chemo).md",
-    "Research/Lattice/Paper.md",
-    "Journal Club/@gaebeReexaminingProphylacticCranial2024.md",
-    "misc/prep for Mehta.md",
-    "Research/SPArtifact/Agenda.md",
-    "Morning Conference/H&N/Unknown Primary/ECRO Unknown Primary.md",
     "Morning Conference/H&N/Oral Cavity/attachments/Iyer_results.png"
   ]
 }

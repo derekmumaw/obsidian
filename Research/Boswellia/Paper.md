@@ -36,17 +36,15 @@ The improvement is documented in Figure 3 with day -21 representing his jaw-open
 
 # Discussion
 
-As described above, here we have a patient with severe trismus who, after initially struggling with passive range of motion exercises (achieving only 1-2 mm of opening), had a dramatic response to combination therapy with Therabite® and *Boswellia serrata*. Over the course of 25 days, the patient improved his jaw opening from 6 mm to 23 mm: an impressive gain of 17 mm or 0.68 mm/day. 
+As described above, here we have a patient with severe trismus who, after initially struggling with passive range of motion exercises (achieving only 1-2 mm of opening), had a dramatic response to combination therapy with Therabite® and _Boswellia serrata_. Over the course of 25 days, the patient improved his jaw opening from 6 mm to 23 mm: an impressive gain of 17 mm or 0.68 mm/day.
 
-This is far faster than that previously documented in the Therabite® literature: 7.5 times faster than the rate determined by Pauli et al. [^@pauliExerciseInterventionTreatment2014] and 3.6 times faster than Buchbinder et al. [^@buchbinderMobilizationRegimensPrevention1993]. Even the best case scenario, the upper limit of Buchbinder's 95% confidence interval, is 2.9x lower than our patient. Our patient's rate of improvement lies an impressive 4.7 standard deviations above Buchbinder's mean (p<0.00001). 
+This is far faster than that previously documented in the Therabite® literature: 7.5 times faster than the rate determined by Pauli et al. [^@pauliExerciseInterventionTreatment2014] and 3.6 times faster than Buchbinder et al. [^@buchbinderMobilizationRegimensPrevention1993]. Even the best case scenario, the upper limit of Buchbinder's 95% confidence interval, is 2.9x lower than our patient. Our patient's rate of improvement lies an impressive 4.7 standard deviations above Buchbinder's mean (p<0.00001).
 
-It seems difficult, then, to attribute the patient's rapid improvement solely to his use of the Therabite® system. Within 2 days of initiating Therabite®, the patient also began taking *Boswellia serrata*. As mentioned, _BS_ has a well-documented anti-inflammatory effect, both *in vitro* and *in vivo* with studies identifying several targets of activity including 5-lipoxygenase, human leukocyte elastase, TNF-alpha, interleukin-1beta, NFKB, and VEGF [^@poeckelBoswellicAcidsBiological2006][^@gayathriPureCompoundBoswellia2007][^@safayhiInhibitionBoswellicAcids1997][^@lulliAcetyl11ketovboswellicAcidReduces2015]. These molecular targets are of particular interest in that they are known to contribute to the inflammatory cascade involved in radiation-induced fibrosis[citations] and thus may be the mediators through which _BS_ is augmenting this patient's recovery. 
+It seems difficult, then, to attribute the patient's rapid improvement solely to his use of the Therabite® system. Within 2 days of initiating Therabite®, the patient also began taking _Boswellia serrata_. As mentioned, _BS_ has a well-documented anti-inflammatory effect, both _in vitro_ and _in vivo_ with studies identifying several targets of activity including 5-lipoxygenase, human leukocyte elastase, TNF-alpha, interleukin-1beta, NFKB, and VEGF [^@poeckelBoswellicAcidsBiological2006][^@gayathriPureCompoundBoswellia2007][^@safayhiInhibitionBoswellicAcids1997][^@lulliAcetyl11ketovboswellicAcidReduces2015]. These molecular targets are of particular interest in that they are known to contribute to the inflammatory cascade involved in radiation-induced fibrosis [^@lin5LipoxygenaseInhibitorsAttenuate2014][^@fujinoAdministrationSpecificInhibitor2012][^@straubRadiationinducedFibrosisMechanisms2015][^@liuNFkBSignalingInflammation2017][^@shamsOverexpressionVEGFDermal2022] and thus may be the mediators through which _BS_ is augmenting this patient's recovery.
 
-We also see several other systemic effects that support this anti-inflammatory hypothesis. Within a week of initiating treatment with _BS_, the patient noted substantial improvement in his gingival edema, cervical lymphedema, and arthritic pain. These, of course, cannot be explained by the Therabite®, and the abruptness of the recovery is unlikely to have been 
+We also see several other systemic effects that support this anti-inflammatory hypothesis. Within a week of initiating treatment with _BS_, the patient noted substantial improvement in his gingival edema, cervical lymphedema, and arthritic pain. These, of course, cannot be explained by the Therabite®, and the abruptness and concurrence of the recovery for each issue is inconsistent with a spontaneous resolution. This is, again, suggestive of a strong anti-inflammatory effect of _Boswellia serrata_.
 
-
-- relate anti-inflammatory properties/target of Boswellia → proposed RT-induced fibrosis/trismus mediators [[@straubRadiationinducedFibrosisMechanisms2015]]
-- comment on gingival edema, lymphedema, and arthritic pain reduction
+Given the extremely detrimental effects of trismus on quality of life and the current suite of treatment options effect only slow, modest gains, there is an unmet need for additional therapies. We believe that _Boswellia serrata_ may meet this need. It has demonstrated an impressive range of effect in several disease processes whilst carrying minimal risk of mild side effects.  Further studies, especially prospective studies, are needed to quantify the 
 
 [^@dijkstraCriteriaTrismusHead2006]: [[@dijkstraCriteriaTrismusHead2006]]
 [^@weberLimitedMouthOpening2010]: [[@weberLimitedMouthOpening2010]]
@@ -79,3 +77,8 @@ We also see several other systemic effects that support this anti-inflammatory h
 [^@warnickTreatmentAdverseRadiation2023]: [[@warnickTreatmentAdverseRadiation2023]]
 [^@dipierroNovelLecithinbasedDelivery2019]: [[@dipierroNovelLecithinbasedDelivery2019]]
 [^@kirsteBoswelliaSerrataActs2011]: [[@kirsteBoswelliaSerrataActs2011]]
+[^@lin5LipoxygenaseInhibitorsAttenuate2014]: [[@lin5LipoxygenaseInhibitorsAttenuate2014]]
+[^@fujinoAdministrationSpecificInhibitor2012]: [[@fujinoAdministrationSpecificInhibitor2012]]
+[^@straubRadiationinducedFibrosisMechanisms2015]: [[@straubRadiationinducedFibrosisMechanisms2015]]
+[^@liuNFkBSignalingInflammation2017]: [[@liuNFkBSignalingInflammation2017]]
+[^@shamsOverexpressionVEGFDermal2022]: [[@shamsOverexpressionVEGFDermal2022]]
