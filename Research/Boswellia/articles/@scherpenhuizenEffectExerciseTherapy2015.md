@@ -8,7 +8,7 @@ doi: 10.1016/j.oraloncology.2015.05.001
 moc: 
 ---
 >[!info]
-[The effect of exercise therapy in head and neck cancer patients in the treatment of radiotherapy-induced trismus: A systematic review](https://pubmed.ncbi.nlm.nih.gov//)
+[The effect of exercise therapy in head and neck cancer patients in the treatment of radiotherapy-induced trismus: A systematic review](https://pubmed.ncbi.nlm.nih.gov/26058916/)
 Anne Scherpenhuizen, AnneM.A. van Waes, Luuk M. Janssen, Ellen M. Van Cann, Inge Stegeman
 **Oral Oncology**. 2015
 
