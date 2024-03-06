@@ -6,7 +6,7 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "custom-mermaid",
     "tag-colors",

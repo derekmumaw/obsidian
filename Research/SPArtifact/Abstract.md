@@ -11,7 +11,7 @@ SPArc generates more homogenous plans than IMPT as measured by SD (3.5 vs. 7.7%)
 ![[img_Abstract_fig1-1.png]]
 
 ### Robustness
-SPArc also showed greater robustness than IMPT as measured by perturbation-to-perturbation Levene (mean statistic: 1.1 vs. 1.6) and CI width (mean: ==0.79 vs. 1.07==).
+SPArc also showed greater robustness than IMPT as measured by perturbation-to-perturbation Levene (mean statistic: 1.1 vs. 1.6) and a strong trend towards a reduced mean CI width (mean: 0.91 vs. 1.26, p=0.052).
 
 ### Dosimetric Advantage
 Examining the area under the mean dose-difference curve shows that, compared to IMPT, SPArc delivers an 18.6% more integral dose below the prescription dose level and spares 3.6% more integral dose above the prescription dose level—an overall integral benefit of 22.2% in favor of SPArc. The difference plot reveals significantly greater volumes at dose levels from 79.6% to 100.3% with an 8.5% volume advantage over this range. 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa22aec442dc1361",
+        "id": "e4fa0c07f7679226",
         "type": "tabs",
         "children": [
           {
-            "id": "cf83bfee1bc44a35",
+            "id": "4099abef34f1855d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,7 +155,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf83bfee1bc44a35",
+  "active": "4099abef34f1855d",
   "lastOpenFiles": [
     "Research/SPArtifact/Abstract.md",
     "Research/Boswellia/Paper.md",
