@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "75cf643ec310d833",
+        "id": "aa22aec442dc1361",
         "type": "tabs",
         "children": [
           {
-            "id": "ab75f9f9c5620a85",
+            "id": "cf83bfee1bc44a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Research/SPArtifact/Abstract.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Research/SPArtifact/Abstract.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Research/SPArtifact/Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Boswellia/Paper.md"
+                "file": "Research/SPArtifact/Abstract.md"
               }
             }
           },
@@ -155,12 +155,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab75f9f9c5620a85",
+  "active": "cf83bfee1bc44a35",
   "lastOpenFiles": [
+    "Research/SPArtifact/Abstract.md",
+    "Research/Boswellia/Paper.md",
     "Research/Boswellia/attachments/dx_imaging.png",
     "Research/Boswellia/attachments/tx_plan.png",
     "Research/Boswellia/attachments/BS_graph.png",
-    "Research/Boswellia/Paper.md",
     "Literature/@annamarajuPentoxifylline2024.md",
     "Research/Boswellia/Literature Review.md",
     "Research/Boswellia/articles/@kimmatkarEfficacyTolerabilityBoswellia2003.md",
@@ -173,7 +174,6 @@
     "misc/TIROG satellite.md",
     "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
     "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
-    "Research/SPArtifact/Abstract.md",
     "Research/SPArtifact/Agenda.md",
     "Literature/@straubRadiationinducedFibrosisMechanisms2015.md",
     "Literature/@shamsOverexpressionVEGFDermal2022.md",
