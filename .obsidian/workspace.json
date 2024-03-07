@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/SPArtifact/Abstract.md",
+                "file": "Research/Lattice/Paper.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/SPArtifact/Abstract.md",
+                "file": "Research/Lattice/Paper.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/SPArtifact/Abstract.md",
+                "file": "Research/Lattice/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/SPArtifact/Abstract.md"
+                "file": "Research/Lattice/Paper.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "4099abef34f1855d",
   "lastOpenFiles": [
+    "Research/Lattice/PTCOG abstract.md",
     "Research/SPArtifact/Abstract.md",
     "Research/Boswellia/Paper.md",
     "Research/Boswellia/attachments/dx_imaging.png",
