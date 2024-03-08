@@ -14,6 +14,7 @@
 ## Treatment
 - MVP x5c (MTX 2.5, Procarbazine, Vincristine). IT MTX 12 mg between cycles. 
 - Only 16 pts got BID RT, while 63 pts got 45 Gy.
+	>The study was then modified so that those patients who > achieved a complete response at the end of 10 weeks of chemotherapy would receive a hyperfractionated whole-brain radiation course for a total dose of 36 Gy given in 1.20-Gy fractions twice daily for 15 days
 
 # Results
 ## Response
@@ -30,12 +31,17 @@
 - G3+ 73% (2/3 related to myelosuppression).
 - G5 10% (6→ 16% for > 60y)
 
+# KCL
+- 
+
 >[!summary]
 > - 45/30 switched to 36/30 BID (1.2 Gy) due to late toxicity, and was just as effective. 
 > - This trial likely resulted in less patients above the age of 60 getting WBRT for PCNSL.
-> - **Modern, preferred regimen** (not recognized as top option in NCCN 5.2020): 
+> - **Modern, preferred regimen** (not recognized as top option in NCCN 5.2020): [[MSK (R-MPV + WBRT 23.6 + Ara-C)]]
 > 	- ~60% CR after 5c R-MPV. 
 > 	- ~80% CR after 7c R-MPV. 
-> 	- If CR → 23.4 Gy WBRT (per [[MSK (MPV + WBRT 23.6 + Ara-C)|MSK]]) 
+> 	- If CR → 23.4 Gy WBRT (per [[MSK (R-MPV + WBRT 23.6 + Ara-C)|MSK]]) 
 > 	- If PR after 7c → 30-36 Gy WBRT ± 45 Gy GTV boost → Ara-C x2c.
 >^summary
+
+![[RTOG 9310.pdf]]

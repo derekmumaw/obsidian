@@ -28,5 +28,5 @@
 - Improved MMSE at 3y more pronounced in pts ≥ 60y.
 
 >[!summary]
-> Recall: CR after 5c / 7c of R-MPV of 50 → 80% [[MSK (MPV + WBRT 23.6 + Ara-C)#2013 Results]]. This study demonstrated 50% CR.
+> Recall: CR after 5c / 7c of R-MPV of 50 → 80% [[MSK (R-MPV + WBRT 23.6 + Ara-C)#2013 Results]]. This study demonstrated 50% CR.
 >^summary

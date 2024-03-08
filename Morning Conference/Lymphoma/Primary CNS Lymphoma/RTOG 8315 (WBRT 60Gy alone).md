@@ -2,16 +2,16 @@
 >[!title]
 > RTOG 8315 [Nelson IJROBP '92]: Phase II.
 
->[!intervention] 
+>[!intervention]
 > WBRT: 40 Gy + 20 Gy boost to tumor + 2 cm. No chemo.
 
-# study
+# Study
 - 41 pts.
 - MS 12 mo. 2y OS 30%
 	- KPS > 70 4x better survival
 	- Age < 60 3x better survival
 
-# results
+# Results
 - Radiographic CR/near-CR 81%.
 - 60% of the recurrences were in the brain.
 - 28 total failures:
@@ -19,6 +19,11 @@
 	- 75% had local-only failure.
 - Nearly 90% of failures recurred within 60 Gy volume.
 
->[!summary] 
+# KCL
+- Lots of failure, tons of toxicity
+- Younger patients (<60) did better (OS)
+- tend to be radioresistant (high infield failure)
+
+>[!summary]
 > Dose escalation in absence of chemotherapy with (surprisingly) poor outcomes, 90% IFF within 2 cm boost margin.
 >^summary

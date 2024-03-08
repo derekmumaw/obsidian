@@ -12,6 +12,7 @@
 
 ## Treatment
 - HD-MTX-based chemo: Rituximab, Methotrexate, BCNU, VP16, prednisone x2c→ Ritxumab/cytarabine x2c
+- RT: 40/20. No response-adaptation
 
 # Results
 
@@ -26,6 +27,10 @@
 - In the ASCT arm, treatment-related death was 11% while a third of relapses were successfully salvaged after WRBT.
 
 >[!summary]
+> - 100 patients. WBRT vs ASCT. EFS better with ASCT and neuro toxicity less, but WBRT was to 40 Gy without any response-adaptation like MSK.
 > This trial did not evaluate reduced dose WBRT in the setting of complete response (only 46% of patients had CR in the WBRT arm, which appears inferior to CR rates with R-MPV x5-7 cycles). [RoR](https://docs.google.com/document/d/1gKy2Hpx7FxInjOpKIBkTFJWpqhJ3I-gSXz9eRwq-NSY/edit#bookmark=kix.h2nxzvb803w7)
 TBL [QS](http://www.quadshotnews.blogspot.com/2022/07/precisely.html): In long-term follow up of the PRECIS trial, ASCT results in less neurocognitive toxicity and a lower risk of relapse with no difference in overall survival.
 >^summary
+
+# PDF
+![[PRECIS.pdf]]

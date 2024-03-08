@@ -76,7 +76,7 @@
 - Ddx: Metastatic lymphoma (~5%), CNS tumors, mets, abscess, hemorrhage, MS, sarcoidosis, toxo (AIDS).
 
 ## Labs
-- LDH, EBV, HIV, toxo (ELISA for antibody).
+- LDH, EBV, HIV, toxo (ELISA for antibody). #pimp
 - AIDS patients: Toxoplasmosis titer and BMBx.
 
 ## Procedures
@@ -94,6 +94,7 @@
 ### MRI Brain
 - "cotton wool" appearance, (homogenous with fuzzy borders)
 - Indistinct fluffy borders, strong contrast enhancement, ring enhancement esp in AIDS (central necrosis), T2 iso/hypointense, less edema than expected for glioma or mets.
+- know low-B vs. high-B #pimp
 
 ### MRI Spine: if Sx or CSF Positive
 - ~30% with LMD or CSF involvement at diagnosis.
@@ -152,3 +153,15 @@
 | Unconfirmed CR: | Any steroids, minor slit lamp finding, negative CSF, Minor MRI enhancement.                  |
 | PR:             | Slit lamp w decrease in vitreous cells/retinal infiltrate, LP+, ≥ 50% decreased enhancement. |
 | PD:             | New ocular dz, LP+, ≥ 25% increase in enhancement or new lesion/site.                        |
+
+# Treatment
+## RT
+[[RTOG 8315 (WBRT 60Gy alone)]]: Historical. Pt's did very poorly without chemo. Failures 90% in-field even with 60 Gy.
+
+==RTOG 8806==: PII. 54pts. Cphose, dox, vinc, dexameth. IT MTX if CSF+. 41.4/1.8. Slightly better OS compared to 8315.  
+
+[[G-PCNSL-SG-1 (chemo ± WBRT)]]: Chemo alone has worse 2y-PFS by about 15%. Non-inferiority trial.
+
+[[RTOG 9310 (MPV + WBRT 45 + MPV)]]: Now with 5-7 cycles of MTX/Procarbazine/Vincristine before RT and 2 cycles of AraC after. 60% CR after 5 cycles, 80% after 7. Much better control rates, but Toxicity was pretty severe and much worse for >60y. 
+
+[[MSK (R-MPV + WBRT 23.6 + Ara-C)]]: Like 9310, but they added rituximab and then, if they had a complete response, they reduced the WBRT dose to 23.4/13. 
