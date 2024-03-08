@@ -26,7 +26,7 @@
     {
       "id": "i70a5jidxo",
       "platform_specific_commands": {
-        "default": "C:/ProgramData/Anaconda3/python.exe \"g:/My Drive/CODE/RadOnc/1n-md.py\" \"G:\\My Drive\\Residency\\RadOnc\\{{file_path:relative}}\""
+        "default": "C:\\Users\\Derek\\miniconda3\\python.exe \"g:/My Drive/CODE/RadOnc/1n-md.py\" \"G:\\My Drive\\Residency\\RadOnc\\{{file_path:relative}}\""
       },
       "shells": {},
       "alias": "onenote-filepath",
@@ -60,7 +60,7 @@
     {
       "id": "fxsgjl1bkh",
       "platform_specific_commands": {
-        "default": "C:/ProgramData/Anaconda3/python.exe \"g:/My Drive/CODE/RadOnc/1n-md.py\""
+        "default": "C:\\Users\\Derek\\miniconda3\\python.exe \"g:/My Drive/CODE/RadOnc/1n-md.py\""
       },
       "shells": {},
       "alias": "onenote-copy",
