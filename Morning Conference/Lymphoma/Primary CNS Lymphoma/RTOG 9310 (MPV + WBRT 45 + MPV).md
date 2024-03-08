@@ -31,8 +31,6 @@
 - G3+ 73% (2/3 related to myelosuppression).
 - G5 10% (6→ 16% for > 60y)
 
-# KCL
-- 
 
 >[!summary]
 > - 45/30 switched to 36/30 BID (1.2 Gy) due to late toxicity, and was just as effective. 

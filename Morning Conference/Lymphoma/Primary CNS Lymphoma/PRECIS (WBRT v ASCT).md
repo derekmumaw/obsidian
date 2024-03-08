@@ -32,5 +32,10 @@
 TBL [QS](http://www.quadshotnews.blogspot.com/2022/07/precisely.html): In long-term follow up of the PRECIS trial, ASCT results in less neurocognitive toxicity and a lower risk of relapse with no difference in overall survival.
 >^summary
 
+
+# KCL
+- "Non-comparative" RCT
+- Both exceeded effectiveness thresholds. Exploratory analyses favor ASCT
+
 # PDF
 ![[PRECIS.pdf]]

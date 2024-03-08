@@ -106,13 +106,13 @@
               "type": "markdown",
               "state": {
                 "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/PRECIS (WBRT v ASCT).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md",
+                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md",
+                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md"
+                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md"
               }
             }
           },
@@ -249,16 +249,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d190a8195952e8d",
+  "active": "86b7394e40a8221b",
   "lastOpenFiles": [
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 0227 (R-MTX,TMZ + WBRT + TMZ).md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/MSK (R-MPV + WBRT 23.6 + Ara-C).md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/G-PCNSL-SG-1 (chemo ± WBRT).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 8315 (WBRT 60Gy alone).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/PRECIS (WBRT v ASCT).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md",
+    "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 0227 (R-MTX,TMZ + WBRT + TMZ).md",
+    "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
+    "Morning Conference/Lymphoma/Primary CNS Lymphoma/G-PCNSL-SG-1 (chemo ± WBRT).md",
+    "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 8315 (WBRT 60Gy alone).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/attachments/PRECIS.pdf",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/attachments/MSK.pdf",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/attachments/IELSG 32.pdf",
