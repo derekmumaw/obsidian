@@ -1,5 +1,5 @@
 ## Background and Aims 
-Conventional intensity modulated proton therapy (IMPT) 
+Spot-scanning Proton Arc Therapy (SPArc) is a new technqieu 
 
 The goal is to determine the efficiency of using Spot-scanning Proton Arc therapy (SPArc), a promising new treatment modality, compared to the conventional Intensity Modulated Proton Therapy (IMPT) in single and multi-room proton therapy centers with varying patient populations (e.g., percentage of anesthesia patients and number of fields per patient). 
 
