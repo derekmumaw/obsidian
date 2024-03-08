@@ -6,7 +6,6 @@
       {
         "id": "aa190e281c912e52",
         "type": "tabs",
-        "dimension": 35.48795944233207,
         "children": [
           {
             "id": "0fb0ff35100ec1dd",
@@ -14,105 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e4fa0c07f7679226",
-        "type": "tabs",
-        "dimension": 64.51204055766793,
-        "children": [
-          {
-            "id": "052e41183bcbe13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 8315 (WBRT 60Gy alone).md",
+                "file": "Research/SPArc Workflow Model/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71e2e48bb2bc0569",
+            "id": "d761a0d203f4ceaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/G-PCNSL-SG-1 (chemo ± WBRT).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "86b7394e40a8221b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07b4655a30b851c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/MSK (R-MPV + WBRT 23.6 + Ara-C).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83d36d2d85bb063c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 0227 (R-MTX,TMZ + WBRT + TMZ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d190a8195952e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "25a289b80277bf9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/PRECIS (WBRT v ASCT).md",
+                "file": "Research/SPArc Workflow Model/Abstract.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "6bafc0931aef148e",
@@ -179,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
+                "file": "Research/SPArc Workflow Model/Abstract.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
+                "file": "Research/SPArc Workflow Model/Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md"
+                "file": "Research/SPArc Workflow Model/Abstract.md"
               }
             }
           },
@@ -249,14 +168,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86b7394e40a8221b",
+  "active": "d761a0d203f4ceaa",
   "lastOpenFiles": [
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/MSK (R-MPV + WBRT 23.6 + Ara-C).md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
+    "Research/SPArc Workflow Model/Notes.md",
+    "Research/SPArc Workflow Model/Abstract.md",
+    "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/PRECIS (WBRT v ASCT).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 0227 (R-MTX,TMZ + WBRT + TMZ).md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
+    "Morning Conference/Lymphoma/Primary CNS Lymphoma/MSK (R-MPV + WBRT 23.6 + Ara-C).md",
+    "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/G-PCNSL-SG-1 (chemo ± WBRT).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 8315 (WBRT 60Gy alone).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/attachments/PRECIS.pdf",
@@ -288,7 +209,6 @@
     "misc/TIROG satellite.md",
     "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
     "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
-    "Research/SPArtifact/Agenda.md",
     "misc/attachments/20240131_123156.jpg",
     "Research/Boswellia/attachments/Pasted image 20240228204648.png",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
