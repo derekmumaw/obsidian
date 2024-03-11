@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/SPArc Workflow Model/Notes.md",
+                "file": "Literature/@kirsteBoswelliaSerrataActs2011.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/SPArc Workflow Model/Abstract.md",
+                "file": "Literature/@kirsteBoswelliaSerrataActs2011.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/SPArc Workflow Model/Abstract.md",
+                "file": "Literature/@kirsteBoswelliaSerrataActs2011.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/SPArc Workflow Model/Abstract.md"
+                "file": "Literature/@kirsteBoswelliaSerrataActs2011.md"
               }
             }
           },
@@ -168,8 +167,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d761a0d203f4ceaa",
+  "active": "0fb0ff35100ec1dd",
   "lastOpenFiles": [
+    "Research/Boswellia/Paper.md",
+    "Literature/@kirsteBoswelliaSerrataActs2011.md",
     "Research/SPArc Workflow Model/Notes.md",
     "Research/SPArc Workflow Model/Abstract.md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
@@ -193,7 +194,6 @@
     "Research/Lattice/Paper.md",
     "Research/Lattice/PTCOG abstract.md",
     "Research/SPArtifact/Abstract.md",
-    "Research/Boswellia/Paper.md",
     "Research/Boswellia/attachments/dx_imaging.png",
     "Research/Boswellia/attachments/tx_plan.png",
     "Research/Boswellia/attachments/BS_graph.png",
@@ -208,7 +208,6 @@
     "Research/SPArtifact/Patients.md",
     "misc/TIROG satellite.md",
     "Research/Boswellia/articles/@scherpenhuizenEffectExerciseTherapy2015.md",
-    "Research/Boswellia/articles/@buchbinderMobilizationRegimensPrevention1993.md",
     "misc/attachments/20240131_123156.jpg",
     "Research/Boswellia/attachments/Pasted image 20240228204648.png",
     "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
