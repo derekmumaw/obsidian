@@ -8,10 +8,8 @@ A model was developed incorporating SPArc and IMPT machine delays obtained from 
 ## Results
 Validation was successful. With a single vault for 11 hours, the model predicted 22.9 treatments compared to 21 reflected in the clinical logfiles (20% anesthesia). With a 2-vault setup for 8.3 hours, the model predicted 33.4 treatments compared to 35 logged treatments (5% anesthesia). In the latter scenario, duty cycle logs were available: the model prediction (23%) and logfiles (26%) agreed closely. 
 
-In simulation, maximum daily throughput increased logarithmically with increasing vault number for both SPArc (patient throughput = 33 + 96 x log(vault count): r^2=0.96) and IMPT (patient throughput = 32 + 63 x log(vault count): r^2=0.99), with SPArc treating  24%, 25%, 29%, 37%, and 49% more patients than IMPT in 1–5 vaults, respectively. 
+In simulation, median maximum daily throughput increased logarithmically with increasing vault number (#) for both SPArc (patient throughput = 33 + 96 x log(#): r^2=0.96) and IMPT (patient throughput = 32 + 63 x log(#): r^2=0.99). SPArc was able to treat 24%, 25%, 29%, 37%, and 49% more patients than IMPT in 1–5 vaults, respectively. Median on-couch waiting times (minutes) increased quadratically with increasing vault number (#) for both SPArc (wait = -0.54# + 0.29#^2 + 0.86: r^2=0.99) and IMPT (wait = 1.25# + 0.63#^2 + 0.01: r^2=1.0). Compared to IMPT, SPArc reduced on-couch wait times by 77±4%, consistent across vault counts.
 
-
-Regarding the maximum daily treatment throughput prediction, SPArc increased 25%, 33%, 47%, 62%, and 77% (Figure 1) for 1-5 room systems, respectively. The study also found that SPArc saved an average of 1.4min, 4.0mins, 7.6mins, 11.9mins and 16.5mins of patient waiting time on the treatment couch for 1-5 room systems, respectively.
 
 ## Conclusion
 SPArc can improve the treatment workflow efficiency across all the proton center configurations. More daily treatment throughput was observed in centers with more treatment rooms, reducing patient waiting time on the couch.
