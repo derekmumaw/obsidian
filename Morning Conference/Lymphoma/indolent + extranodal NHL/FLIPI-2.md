@@ -23,6 +23,9 @@
 
 - See table above for 5y OS, which ranges from 100-80% for 0 and 3+ risk factors, respectively.
 
+# TJQ
+- HASSL mnemonic for FLIPI I
+
 >[!summary] 
 > - Study of 1000 patients with follicular lymphoma where they took all the data points they had, poured them into an algorithm which picked the best risk factors. 
 > - They found beta2, BM, age, nodal size, and hemoglobin to be prognostic for OS and PFS and made low risk, intermediate risk, and high risk groups for patients with 0, 1-2, or 3-5 risk factors

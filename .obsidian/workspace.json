@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5e5d105e9d8ff5a0",
+        "id": "3dd21f896206aaf9",
         "type": "tabs",
+        "dimension": 40.88486140724947,
         "children": [
           {
             "id": "471e7095f3b01efc",
@@ -14,8 +15,37 @@
               "type": "markdown",
               "state": {
                 "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/ECRO Indolent NHL.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e5d105e9d8ff5a0",
+        "type": "tabs",
+        "dimension": 59.11513859275054,
+        "children": [
+          {
+            "id": "e255dfbcb46789ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/ECRO_indolentNHL.pdf"
+              }
+            }
+          },
+          {
+            "id": "f496401b982132af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/FLIPI-2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -32,50 +62,14 @@
             }
           },
           {
-            "id": "dc93a928c0e1c8a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/TROG 9903 (30Gy ± (R)-CVP).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d589ae25239193ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/European Gastric MALT.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "47ba89685f3e61bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/UK Multicenter (Dose-reduction).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "f496401b982132af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/FLIPI-2.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -98,95 +92,52 @@
               "type": "markdown",
               "state": {
                 "file": "FORT (24 v 4).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dc93a928c0e1c8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/TROG 9903 (30Gy ± (R)-CVP).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d589ae25239193ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/European Gastric MALT.md",
                 "mode": "source",
                 "source": true
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "13081b28e67e95f7",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f8c54dbaae4e67a5",
+            "id": "2eb272089f9dc3a8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/ECRO_indolentNHL.pdf"
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NasalNKTCell.pdf"
               }
             }
           },
           {
-            "id": "dfd5f140f3275d4d",
+            "id": "9cf034bba39f7d6e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NHLDoseReduction.pdf"
-              }
-            }
-          },
-          {
-            "id": "486be95b456c9d6d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/FORT.pdf"
-              }
-            }
-          },
-          {
-            "id": "62755348bbc93f5f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/Dutch4Gy.pdf"
-              }
-            }
-          },
-          {
-            "id": "e70510da319075b9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NCDBFollicular.pdf"
-              }
-            }
-          },
-          {
-            "id": "ceffae9a2a7cceb5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/TROG99.03.pdf"
-              }
-            }
-          },
-          {
-            "id": "c637fd19d6a29812",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/GastricMALTHPylori.pdf"
-              }
-            }
-          },
-          {
-            "id": "e117d0a5edecc271",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/MSK-MZL.pdf"
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/GHSGBoneDzRTorRitux.pdf"
               }
             }
           }
@@ -241,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bafc0931aef148e",
@@ -257,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/MSK-MZL.pdf",
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/European Gastric MALT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -274,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/MSK-MZL.pdf",
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/European Gastric MALT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/MSK-MZL.pdf"
+                "file": "Morning Conference/Lymphoma/indolent + extranodal NHL/European Gastric MALT.md"
               }
             }
           },
@@ -327,25 +279,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e117d0a5edecc271",
+  "active": "d589ae25239193ba",
   "lastOpenFiles": [
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NasalNKTCell.pdf",
     "Morning Conference/Lymphoma/indolent + extranodal NHL/European Gastric MALT.md",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/GastricMALTHPylori.pdf",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/TROG 9903 (30Gy ± (R)-CVP).md",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/TROG99.03.pdf",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/NCDB (indolent).md",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NCDBFollicular.pdf",
-    "FORT (24 v 4).md",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/FORT.pdf",
-    "Boom-Boom.md",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/FLIPI-2.md",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/UK Multicenter (Dose-reduction).md",
     "Morning Conference/Lymphoma/indolent + extranodal NHL/ECRO Indolent NHL.md",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/GHSGBoneDzRTorRitux.pdf",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/TROG 9903 (30Gy ± (R)-CVP).md",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/NCDB (indolent).md",
+    "Boom-Boom.md",
+    "FORT (24 v 4).md",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/UK Multicenter (Dose-reduction).md",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/ECRO_indolentNHL.pdf",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/FLIPI-2.md",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/MSK-MZL.pdf",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/GastricMALTHPylori.pdf",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/TROG99.03.pdf",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NCDBFollicular.pdf",
+    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/FORT.pdf",
     "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/Dutch4Gy.pdf",
     "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NHLDoseReduction.pdf",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/ECRO_indolentNHL.pdf",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/FLIPI-2.pdf",
-    "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments",
     "Research/SPArc Workflow Model/Abstract.md",
     "Literature/@kirsteBoswelliaSerrataActs2011.md",
     "Research/Boswellia/Paper.md",
@@ -358,7 +311,6 @@
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 9310 (MPV + WBRT 45 + MPV).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/G-PCNSL-SG-1 (chemo ± WBRT).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/RTOG 8315 (WBRT 60Gy alone).md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/attachments/PRECIS.pdf",
     "Research/Lattice/Paper.md",
     "Research/Lattice/PTCOG abstract.md",
     "Research/SPArtifact/Abstract.md",

@@ -25,6 +25,10 @@
 		- 15% of CRs in >12 mo
 - if residual disease: 100% achieved CR after 2nd line antibiotics
 
+# TJQ
+- Low dose RT for Gastric MALT [Gunther Blood '23](https://www.sciencedirect.com/science/article/abs/pii/S0006497123049029)
+- translocation predicting for Triple therapy failure: t(11:14) #pimp
+
 >[!summary]
 > 120 patients with early stage H.Pylori+ gastric MALTs were treated with "Triple therapy" (PPI, Amox, clarithromycin). 
 > control rates were excellent with  80% CR (100% with retreatment).
