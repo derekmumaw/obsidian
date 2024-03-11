@@ -6,7 +6,7 @@ A model was developed incorporating SPArc and IMPT machine delays obtained from 
 
 
 ## Results
-Validation was successful. With a single vault for 11 hours, the model predicted 22.9 treatments compared to 21 reflected in the clinical logfiles (20% anesthesia). With a 2-vault setup for 8.3 hours, the model predicted 33.4 treatments compared to 35 logged treatments (5% anesthesia). In the latter scenario, duty cycle logs were available: model prediction (23%) and logs (26%) agreed closely. 
+Validation was successful. With a single vault for 11 hours, the model predicted 22.9 treatments compared to 21 reflected in the clinical logfiles (20% anesthesia). With a 2-vault setup for 8.3 hours, the model predicted 33.4 treatments compared to 35 logged treatments (5% anesthesia). In the latter scenario, duty cycle logs were available: the model prediction (23%) and logfiles (26%) agreed closely. 
 
 Daily through
 

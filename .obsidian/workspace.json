@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/SPArc Workflow Model/Notes.md",
+                "file": "Research/SPArc Workflow Model/Abstract.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/SPArc Workflow Model/Notes.md",
+                "file": "Research/SPArc Workflow Model/Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/SPArc Workflow Model/Notes.md"
+                "file": "Research/SPArc Workflow Model/Abstract.md"
               }
             }
           },
@@ -169,10 +168,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19b883d5719be958",
+  "active": "30fe502ff053de66",
   "lastOpenFiles": [
-    "Research/SPArc Workflow Model/Abstract.md",
     "Research/SPArc Workflow Model/Notes.md",
+    "Research/SPArc Workflow Model/Abstract.md",
     "Morning Conference/Lymphoma/indolent + extranodal NHL/ECRO Indolent NHL.md",
     "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/GHSGBoneDzRTorRitux.pdf",
     "Morning Conference/Lymphoma/indolent + extranodal NHL/attachments/NasalNKTCell.pdf",
