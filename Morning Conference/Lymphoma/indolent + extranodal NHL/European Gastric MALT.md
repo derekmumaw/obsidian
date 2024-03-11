@@ -13,13 +13,13 @@
 
 ## Treatment
 - Triple therapy
-	- PPI-Amox-Clarithromycin 
+	- PPI-Amox-Clarithromycin
 	- Clarithromycin-Omeprazole-Metronidazole if PCN-allergic
 
 # Results
-- CR 80% (n=116). 
+- CR 80% (n=116).
 	- Of those who achieved CR, EFS 98% (n=3/116).
-	- Time to CR can be slow. 
+	- Time to CR can be slow.
 		- 60% of CRs in 3 mo
 		- 25% of CRs in 12 mo
 		- 15% of CRs in >12 mo
@@ -30,6 +30,6 @@
 - translocation predicting for Triple therapy failure: t(11:14) #pimp
 
 >[!summary]
-> 120 patients with early stage H.Pylori+ gastric MALTs were treated with "Triple therapy" (PPI, Amox, clarithromycin). 
+> 120 patients with early stage H.Pylori+ gastric MALTs were treated with "Triple therapy" (PPI, Amox, clarithromycin).
 > control rates were excellent with  80% CR (100% with retreatment).
 >^summary

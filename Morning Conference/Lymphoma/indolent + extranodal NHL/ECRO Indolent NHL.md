@@ -100,7 +100,7 @@
 ## Procedures
 - Biopsy of peripheral node ideal
 	- endoscopic biopsy for gastric MALT
-	- FNA not sufficient #emph 
+	- FNA not sufficient #emph
 - Bone marrow biopsy probably required (determines if stage IV)
 - LP if testicular, paravertebral, parameningeal, positive bone marrow, HIV
 
@@ -138,7 +138,7 @@ _The suffix (E) to the numeral indicates Extranodal disease, (A) denotes absence
 - Marginal Zone: Stage I at presentation
 - MALT: mostly I at presentation
 
-**- Japan (2000-2013) [[Yamaguchi JCO '17](http://ascopubs.org/doi/10.1200/JCO.2016.68.1619)]: Retro.  
+**- Japan (2000-2013) [[Yamaguchi JCO '17](http://ascopubs.org/doi/10.1200/JCO.2016.68.1619)]: Retro.
     RT concurrently with DeVIC leads to favorable outcomes. 
 - 358 pts from 31 institutes. Nasal NKT cell lymphoma. 72% localized. MFU 5.5y.
 - RT DeVIC was utilized in 66% of localized cases. 
@@ -147,11 +147,11 @@ _The suffix (E) to the numeral indicates Extranodal disease, (A) denotes absence
 - 5y OS for RT-DeVIC of 72%, 5y PFS 61%.
 - IL-2 is a prognostic factor for worse OS and PFS.**
 
-# Histology specific
+# Histology Specific
 ## Gastric
 - Staging: **AA** vs TNM vs Extension
 	- none of this changes radiation treatment
-- 30/20 because of nausea #pimp historically 
+- 30/20 because of nausea #pimp historically
 	- probably not true if you pretreat well
 
 # PDF
