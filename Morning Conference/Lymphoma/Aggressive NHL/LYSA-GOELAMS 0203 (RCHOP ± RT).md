@@ -54,6 +54,9 @@ pet-.PR.-> crt(40 Gy IFRT)
 ## Toxicity
 - Severe acute toxicities were less common from RT than R-CHOP.
 
+# TJQ
+- if early stage patients get appropriate chemo, no role for consolidative RT. Need to look for bulk, ENE, higher-risk
+
 >[!summary]
 > Seriously, 40 Gy RT? IFRT??
 Balancing the Therapeutic Ratio in DLBCL [Campbell IJROBP '22](https://pubmed.ncbi.nlm.nih.gov/35777387/): "Given the study design, it can only be concluded that in this highly selected, favorable-risk cohort, the additional benefit seen from consolidation RT on local control did not translate into >8% absolute benefit in 5-year EFS."

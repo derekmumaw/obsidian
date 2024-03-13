@@ -35,6 +35,10 @@ start--> RT(4c CHOP\n40/22 IFRT)
 - local relapse 18→ 7%.
 - distant metastasis 15→ 17%.
 
+# TJQ
+- included for completeness. No one uses these regimens (no ritux)
+- for super low-risk, elderly patients, no benefit to RT (omit?)
+
 >[!summary]
 > There is no EFS benefit with the addition of RT to CHOP chemotherapy, although LR cut in half with RT. 
 More DM in RT arm likely due to increased local control. Rituxan likely would have cut down on DM.

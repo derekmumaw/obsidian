@@ -4,13 +4,16 @@
 - 50-60% are aggressive
 
 # Histologies
+#pimp 
+- move NKT cell paper to aggressive #todo 
 ## Burkitts
 - 4:1 M:F.
 - t(8;14)
 	- b-myc→ IgH
-
+	- C-MYC
 ## DLBCL
 - t(14:18): BCL2, BCL6, ALK, etc.
+- know immunotypes #pimp 
 ### Epidemiology
 - MC NHL
 	- 33% of NHL 
@@ -97,3 +100,25 @@ MUM1-- Neg. -->GCB
 		- Extranodal site {1}
 		- Stages III-IV {1}
 	- 1,650 pts treated in the Rituxan era. 
+# workup
+- labs
+	- hepatitis testing
+		- complications with Rituximab
+- Imaging
+	- PET
+		- Deauville #pimp 
+	- prefer palpation over surveillance scans after remission
+- Biopsy
+	- Core is fine, excisional is fine
+# staging
+- drop the A, B, E, X
+- but, include largest diameter in the one-liner (required)
+# Treatment
+- No surgery (excisional biopsy, only)
+- give chemo (RCHOP)
+	- 30 Gy for CR
+	- 36 Gy for CR with bulk
+	- 40+ Gy for PR
+- 50+ Gy for definitive
+
+![[ECRO_aggressiveNHL.pdf]]

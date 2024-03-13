@@ -26,6 +26,10 @@
 - 5y LC ~83% 
 - 5y OS 66%.
 
+# TJQ
+- 30 Gy was no different than 40-45 for aggressive
+- 24 Gy was no different than 40-45 for indolent
+
 >[!summary]
 > 1000 patients with NHL were randomized to standard 40-45 Gy or dose-reduced 24/12 if indolent or 30/15 if aggressive. 
 > Both indolent and aggressive cohorts seemed to respond equally to standard and dose-reduced with 5y-LC at around 80%. There were no OS or PFS differences either. 

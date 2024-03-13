@@ -40,6 +40,10 @@ start(8c CHOP)-- CR --> CRRT(30 Gy IFRT)
 ### PR
 - 6y FFS 63%
 
+# TJQ
+- RT can help in PR (and CR), but didn't help OS
+- more than 3 sites involved was a big negative predictor 
+
 >[!summary]
 > - Relapse less likely at original site with RT, along with less distant metastases. Although this study did not demonstrate an OS benefit (like short term follow up in SWOG above), PFS may be a surrogate for OS [Shi JCO '18](https://www.ncbi.nlm.nih.gov/pubmed/29975624). 
 > - Around half will relapse "in the neighborhood" with chemotherapy alone.

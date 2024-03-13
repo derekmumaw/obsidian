@@ -93,9 +93,14 @@
 
 ## Imaging
 - CT+ CAP
+	- measure longest and shortest
+	- longest >1.5 cm
+	- Bulk HL: 10cm or >1/3 thoracit diameter
+	- Bulk NHL: 
 - PET/CT
 	- >10 SUV suggests high-grade. Target biopsy here
 - MRI brain/spine if symptomatic
+- CXR unhelpful
 
 ## Procedures
 - Biopsy of peripheral node ideal

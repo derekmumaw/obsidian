@@ -3,7 +3,7 @@
 > UNFOLDER [Pfreundschuh ASCO '18](https://ascopubs.org/doi/10.1200/JCO.2018.36.15_suppl.7574), [Thurner Hemasphere '23](https://pubmed.ncbi.nlm.nih.gov/37427146/): 2x2
 
 >[!intervention]
-> R-CHOP{-21} vs. {-14} x6c {± 39.6 Gy ISRT to B (≥ 7.5 cm) and E} sites.
+> R-CHOP{-q21} vs. {-q14} x6c {± 39.6 Gy ISRT to B (≥ 7.5 cm) and E} sites.
 
 # Study
 ## 695 Patients

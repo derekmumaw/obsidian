@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "31c94fc211899e0c",
+        "id": "d2674e2f2fc2ae20",
         "type": "tabs",
+        "dimension": 40.13859275053305,
         "children": [
           {
             "id": "144f9e90139db1c8",
@@ -16,6 +17,47 @@
                 "file": "Morning Conference/Lymphoma/Aggressive NHL/ECRO Aggressive NHL.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c21939e2ba6d437c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Lymphoma/Indolent + Extranodal NHL/ECRO Indolent NHL.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3270254b31ed462e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Lymphoma/Indolent + Extranodal NHL/UK Multicenter (Dose-reduction).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "31c94fc211899e0c",
+        "type": "tabs",
+        "dimension": 59.86140724946695,
+        "children": [
+          {
+            "id": "061a755d15f251f7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Morning Conference/Lymphoma/Aggressive NHL/attachments/ECRO_aggressiveNHL.pdf"
               }
             }
           },
@@ -39,7 +81,7 @@
               "state": {
                 "file": "Morning Conference/Lymphoma/Aggressive NHL/ECOG 1484 (CHOP ± RT).md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -56,6 +98,18 @@
             }
           },
           {
+            "id": "bece8717bdff9e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Lymphoma/Aggressive NHL/LYSA-GOELAMS 0203 (RCHOP ± RT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b21319fa06fecace",
             "type": "leaf",
             "state": {
@@ -63,7 +117,7 @@
               "state": {
                 "file": "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-60 (CHOP ± R).md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -75,7 +129,7 @@
               "state": {
                 "file": "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-noRTh (RCHOP ± bulky RT).md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -86,7 +140,7 @@
               "type": "markdown",
               "state": {
                 "file": "Morning Conference/Lymphoma/Aggressive NHL/UNFOLDER (RCHOP (14 v 21) ± bulky RT.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +152,7 @@
               "type": "markdown",
               "state": {
                 "file": "Morning Conference/Lymphoma/Aggressive NHL/FLYER (RCHOP + adj RCHOP v R).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -116,46 +170,7 @@
             }
           }
         ],
-        "currentTab": 8
-      },
-      {
-        "id": "5c0c8643a92ecd83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "10b3fee0c206fba3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Aggressive NHL/attachments/ECRO_aggressiveNHL.pdf"
-              }
-            }
-          },
-          {
-            "id": "dfbfab85a63736c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Indolent + Extranodal NHL/UK Multicenter (Dose-reduction).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c951dd462c15a1e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Morning Conference/Lymphoma/Aggressive NHL/attachments/OPTIMAL-60.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bafc0931aef148e",
@@ -221,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimal-60.md",
+                "file": "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-noRTh (RCHOP ± bulky RT).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -238,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimal-60.md",
+                "file": "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-noRTh (RCHOP ± bulky RT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimal-60.md"
+                "file": "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-noRTh (RCHOP ± bulky RT).md"
               }
             }
           },
@@ -291,32 +307,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4dc35102d60c13d",
+  "active": "0e978545820421b8",
   "lastOpenFiles": [
-    "Morning Conference/Lymphoma/Aggressive NHL/UNFOLDER (RCHOP (14 v 21) ± bulky RT.md",
-    "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-60 (CHOP ± R).md",
-    "Optimal-60.md",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/OPTIMAL-60.pdf",
+    "Morning Conference/Lymphoma/Aggressive NHL/ECRO Aggressive NHL.md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/UK Multicenter (Dose-reduction).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/UK Lowry.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/FLYER (RCHOP + adj RCHOP v R).md",
+    "Optimal-60.md",
+    "Morning Conference/Lymphoma/Aggressive NHL/UNFOLDER (RCHOP (14 v 21) ± bulky RT.md",
     "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-noRTh (RCHOP ± bulky RT).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/GELA LNH 93-4 (CHOP ± RT).md",
+    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/attachments/GHSGBoneDzRTorRitux.pdf",
+    "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-60 (CHOP ± R).md",
+    "Morning Conference/Lymphoma/Aggressive NHL/FLYER (RCHOP + adj RCHOP v R).md",
     "Morning Conference/Lymphoma/Aggressive NHL/LYSA-GOELAMS 0203 (RCHOP ± RT).md",
+    "Morning Conference/Lymphoma/Aggressive NHL/GELA LNH 93-4 (CHOP ± RT).md",
+    "Morning Conference/Lymphoma/Aggressive NHL/ECOG 1484 (CHOP ± RT).md",
+    "Morning Conference/Lymphoma/Aggressive NHL/SWOG 8736 (CHOP ± RT).md",
+    "Morning Conference/Lymphoma/Aggressive NHL/attachments/ECRO_aggressiveNHL.pdf",
+    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/ECRO Indolent NHL.md",
+    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/attachments/NasalNKTCell.pdf",
+    "Morning Conference/Lymphoma/Aggressive NHL/attachments/OPTIMAL-60.pdf",
+    "Morning Conference/Lymphoma/Aggressive NHL/attachments/UK Lowry.pdf",
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/LYSA-GOELAMS 02-03.pdf",
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/UNFOLDER Mediastinal BCL.pdf",
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/UNFOLDER Aggressive BCL.pdf",
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/RICOVER-noRTh.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/ECOG 1484 (CHOP ± RT).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/SWOG 8736 (CHOP ± RT).md",
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/RICOVER-60.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/GELA LNH 93-4.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/ECRO Aggressive NHL.md",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/ECOG 1484.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/SWOG 8736.pdf",
     "Research/SPArc Workflow Model/Notes.md",
     "Research/SPArc Workflow Model/Abstract.md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/ECRO Indolent NHL.md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/European Gastric MALT.md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/TROG 9903 (30Gy ± (R)-CVP).md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/FORT (24 v 4).md",

@@ -32,6 +32,13 @@ _RICOVER-60 arm_`")
 	- 3y PFS 62→ 88%
 	- 3y OS 65→ 90%
 
+# TJQ
+- EFS way worse in the noRT arm. PFS and OS were better too (on PP, not ITT)
+- HR 2.1 for failure without RT. 
+- Established indication for RT with bulky disease
+- see the bone held trial for an indication for RT with bone involvement [GHSGBoneDZRT… in indolent folder] #todo
+- 
+
 >[!summary] 
 > - Tried to omit RT from bulky disease, but failed!
 > - Conclusion: Rituximab adds OS benefit to CHOP; per protocol RT to bulky disease adds OS benefit.

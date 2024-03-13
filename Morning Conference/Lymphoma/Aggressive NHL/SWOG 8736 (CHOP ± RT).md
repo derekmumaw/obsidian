@@ -34,6 +34,10 @@ chemo-- PR -->pr(50 Gy IFRT)
 - Excessive late OOF failures occur in the CHOP x3c / IFRT arm.
 - CHOP had more heart failure and inability to complete treatment.
 
+# TJQ
+- RT increases OS in lymphoma (initially), but after 7 years, the advantage disappeared.
+- 8c CHOP had 2x cardiovascular tox, but 2nd malignancy is higher for RT
+
 >[!summary]
 > - Adding RT to chemo improves PFS and OS compared to chemo alone at 5y, although OS benefit is lost at long-term F/U. This was the first study to demonstrate an OS benefit with chemo plus radiotherapy.
 >- At about 7y, the curves cross and become NS. Most failures were outside the RT field. Does this suggest suboptimal chemo?
