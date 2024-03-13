@@ -5,8 +5,8 @@
   "baseFontSize": 15,
   "showViewHeader": true,
   "nativeMenus": false,
-  "theme": "moonstone",
-  "cssTheme": "",
+  "theme": "system",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "custom-mermaid",
     "tag-colors",
