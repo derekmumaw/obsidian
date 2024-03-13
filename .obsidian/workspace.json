@@ -11,8 +11,12 @@
             "id": "a35e6e6a485125d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research/Boswellia/Paper.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/Boswellia/Paper.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research/Boswellia/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Research/Boswellia/Paper.md"
+              }
             }
           },
           {
@@ -150,6 +158,8 @@
   },
   "active": "a35e6e6a485125d6",
   "lastOpenFiles": [
+    "Research/Boswellia/articles/@upadhyayRoleBoswelliaSerrata2023.md",
+    "Research/Boswellia/Paper.md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/UK Multicenter (Dose-reduction).md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/ECRO Indolent NHL.md",
     "Optimal-60.md",
@@ -181,7 +191,6 @@
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/NCDB (indolent).md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/FLIPI-2.md",
     "Literature/@kirsteBoswelliaSerrataActs2011.md",
-    "Research/Boswellia/Paper.md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/PRECIS (WBRT v ASCT).md",
     "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md",
