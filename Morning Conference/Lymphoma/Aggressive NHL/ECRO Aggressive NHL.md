@@ -107,7 +107,8 @@ MUM1-- Neg. -->GCB
 - Imaging
 	- PET
 		- Deauville #pimp 
-	- prefer palpation over surveillance scans after remission
+	- prefer palpation over surveillance scans after remission #emph 
+		- BUT re-staging PET at 8-12 months is a good idea #pimp 
 - Biopsy
 	- Core is fine, excisional is fine
 # staging
