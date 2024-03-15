@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "271c927a6950133b",
+        "id": "0b7862d8c09fcf68",
         "type": "tabs",
         "children": [
           {
-            "id": "a35e6e6a485125d6",
+            "id": "ff1f35e0f26fd0bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
-                "mode": "preview",
+                "file": "Morning Conference/Thoracic/Lung SBRT planning/ASTRO consensus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7028c77541f3ccdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Thoracic/Lung SBRT planning/Planning.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "69680f2cb6f20d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Thoracic/Lung SBRT planning/3 Centers SBRT techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a1f3195dcf90001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "6bafc0931aef148e",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Boswellia/Paper.md",
+                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Boswellia/Paper.md"
+                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md"
               }
             }
           },
@@ -156,13 +192,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a35e6e6a485125d6",
+  "active": "1a1f3195dcf90001",
   "lastOpenFiles": [
-    "Research/Boswellia/articles/@upadhyayRoleBoswelliaSerrata2023.md",
+    "Morning Conference/Thoracic/Lung SBRT planning/3 Centers SBRT techniques.md",
+    "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
+    "Morning Conference/Thoracic/Lung SBRT planning/Planning.md",
+    "Morning Conference/Thoracic/Lung SBRT planning/ASTRO consensus.md",
+    "Morning Conference/Thoracic/Lung SBRT planning/attachments/img_Ultracentral Dose Contraints_rtog0813.png",
+    "Morning Conference/Thoracic/Lung SBRT planning/attachments/01. ASTRO Consensus Guidelines.pdf",
+    "Morning Conference/Thoracic/Lung SBRT planning/AAPM Consensus.md",
+    "Morning Conference/Thoracic/Lung SBRT planning/MOC Lung SBRT planning.md",
+    "misc/Interview questions.md",
+    "misc/TIROG satellite.md",
     "Research/Boswellia/Paper.md",
+    "Research/Boswellia/articles/@upadhyayRoleBoswelliaSerrata2023.md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/UK Multicenter (Dose-reduction).md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/ECRO Indolent NHL.md",
-    "Optimal-60.md",
+    "Morning Conference/Lymphoma/Aggressive NHL/Optimal-60.md",
     "Morning Conference/Lymphoma/Aggressive NHL/SWOG 8736 (CHOP ± RT).md",
     "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-60 (CHOP ± R).md",
     "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-noRTh (RCHOP ± bulky RT).md",
@@ -181,19 +227,10 @@
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/UNFOLDER Mediastinal BCL.pdf",
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/UNFOLDER Aggressive BCL.pdf",
     "Morning Conference/Lymphoma/Aggressive NHL/attachments/RICOVER-noRTh.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/RICOVER-60.pdf",
     "Research/SPArc Workflow Model/Notes.md",
     "Research/SPArc Workflow Model/Abstract.md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/European Gastric MALT.md",
     "Morning Conference/Lymphoma/Indolent + Extranodal NHL/TROG 9903 (30Gy ± (R)-CVP).md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/FORT (24 v 4).md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/Boom-Boom.md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/NCDB (indolent).md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/FLIPI-2.md",
-    "Literature/@kirsteBoswelliaSerrataActs2011.md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/ECRO PCNSL.md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/PRECIS (WBRT v ASCT).md",
-    "Morning Conference/Lymphoma/Primary CNS Lymphoma/IELSG 32 (MTX-AraC ±Ritux ±thiotepa + {consolidative ASCT v WBRT}).md",
     "Research/Boswellia/attachments/dx_imaging.png",
     "Research/Boswellia/attachments/tx_plan.png",
     "Research/Boswellia/attachments/BS_graph.png",
@@ -203,7 +240,6 @@
     "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
     "Research/SPArtifact/attachments/img_Abstract_fig2.png",
     "Research/SPArtifact/attachments/img_Abstract_fig1.png",
-    "Research/Boswellia/articles/attachments/img_@shulmanTreatingTrismusDynamic2008_results.png",
     "Morning Conference/CNS/GBM/Untitled.canvas"
   ]
 }

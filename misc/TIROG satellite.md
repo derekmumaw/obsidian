@@ -27,7 +27,37 @@ critical resource hospital
 ## Support
 - other RadOncs
 - Surgeons, MedOncs to build a referral network?
-- 
+
+# Jefferson call
+- Jefferson normally employs all their doctors directly
+- Exception: me < TIROG < Jefferson. 
+- single provider practice. 
+- Townsend
+	- 10k. county is 33k. 
+- critical access hospital
+	- 25 beds. 900 employees. 
+	- 1hour catchment. 
+	- 5 PCP clinics feeding into it. 
+	- Urology
+		- Dr. K practice right across the street. 
+		- recruiting an additional.
+	- Oncology. 
+		- 1.5x oncologists
+		- 1x APP
+		- 1x locum
+- Position
+	- 5 days a week
+	- 95% clinic 5% admin
+		- TB
+	- 5-7 on-tx baseline
+	- RT coder, RN (1 to start, expand), MA, Dosimetry, Physics. 
+- Next steps
+	- in the screening process; more calls scheduled (with other applicants?
+	- call with Dr. Joseph maddard CMO
+	- then discussion with TIROG 
+	- then site visit
+	- she is my point of contact
+	- answers in
 
 # Personal Details
 ## See [[prep for Mehta#Elevator Pitch]]
