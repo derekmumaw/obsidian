@@ -16,7 +16,7 @@
 
 ### ITV
 - on single phase of 4DCT then propagate 
-- MIP may speed things up
+- MaxIP may speed things up
 - important to confirm on all phases of the breathing cycle, regardless
 
 ### PTV
@@ -38,7 +38,8 @@
 | 70/10     | **119** |       |
 | 54/5      | **113** | HyTEC |
 | ==50/4==  | **112** |       |
-| 65/10     | 100     |       |
+| 50/5      | **100** |       |
+| 65/10     | **100** |       |
 | ==48/4==  | 105     | 0915  |
 | ==60/8==  | 105     | HILUS |
 | 50/5      | 100     |       |
@@ -46,6 +47,7 @@
 
 ### PTV
 - V100% ≥ 95%
+	- ITV V100 > 100%
 - V90% ≥ 99%
 
 #### Hot Spots
@@ -77,6 +79,7 @@
 
 #### OARs
 ##### Lung constraints:
+- **same as peripheral**
 - V20 < 10%, < 15% minor deviation.
 - V13.5 Gy < 1000 cc
 - V12.5 Gy < 1500 cc

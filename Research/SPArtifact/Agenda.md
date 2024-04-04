@@ -1,5 +1,5 @@
 
-[[Research/SPArtifact/Literature Review]]
+[[Research/SPArtifact/Paper]]
 
 # Questions
 ## Inclusion criteria

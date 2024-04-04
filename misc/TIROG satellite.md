@@ -59,6 +59,38 @@ critical resource hospital
 	- she is my point of contact
 	- answers in
 
+# Mattern
+- wanted to make sure I 
+- MedOncs
+	- 2.5FTE (locums, commuting from Sea)
+		- goal is to make that permanent
+		- may bump that up to 3.5FTE
+	- 1 FTE NP
+- Surgery
+	- Derm + Mohs
+	- GenSurg x4
+		- colonoscopy
+		- stereotactic breast biopsies
+	- Pulm (adding)
+	- Neuro (adding)
+	- IR (expaning)
+		- CTGB
+	- ENT (adding)
+	- Urology (expanding)
+- Palliative care
+- Hospitalists
+- ED docs
+	- 
+- TB
+	- DR/IR (onsite)
+	- Path
+- TIROG provides coverage
+- 2025 start date target 
+- > keep the conversation going
+- > talk to Loiselle
+- > site visit
+
+
 # Personal Details
 ## See [[prep for Mehta#Elevator Pitch]]
 
@@ -68,7 +100,7 @@ critical resource hospital
 ## CV
 ![[DMumaw_CV.pdf]]
 
-# Response email
+# Response email: Loiselle
 Good evening, Dr. Loiselle,
 
 I very much enjoyed our conversation and getting to meet you on Friday. I was also very grateful to you for taking the time to tell me about the Jefferson opportunity! After reflecting on our conversation, many Google Maps and Zillow searches with my wife, and conversations with my mentors, it seems like it would be an excellent fit for me and something I would definitely be interested in pursuing further. 
@@ -77,3 +109,28 @@ I believe at the end of our conversation you mentioned that it may be possible t
 
 Thanks again,
 -Derek Mumaw
+
+# Response email: Jefferson
+Good afternoon, Jessie, 
+
+It was very nice to meet you on Wednesday and I am grateful for the discussion we were able to have about the Jefferson Radiation Oncology position. It sounds very much like both the health system and the community are heavily invested in this program and have solid plans for expansion. I think it is a good opportunity for me, offering: a friendly environment, top-notch support from TIROG, easy access to the outdoors, and closeness of family. 
+
+I had a few more questions about things we didn't get a chance to cover:
+- What would be the anticipated start date?
+- Could you expand a bit on the salary/benefit? Dr. Loiselle briefly touched on it, but I figure you may know more of the details?
+- Were you able to determine the level of on-site physics and dosimetry support?
+
+Once again, thank you very much for taking the time to speak with me!
+
+Best,
+-Derek Mumaw
+
+# Response email: Mattern
+Good afternoon, Dr. Mattern
+
+I very much enjoyed our conversation on Friday. It seems that every time I learn something new about the Jefferson position it feels like a better and better fit. I appreciated your taking time out of your schedule to talk with me about the job, the culture, and the community; it's evident that you care deeply about Jefferson. 
+
+I am excited for the next step and would love the chance to meet you in person on a site visit, if that is possible in the future.
+
+Best,
+-Derek

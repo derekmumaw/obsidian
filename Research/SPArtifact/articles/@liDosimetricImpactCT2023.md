@@ -11,7 +11,7 @@ authors:
 year: 2023
 pub: Quantitative imaging in medicine and surgery
 doi: 10.21037/qims-23-442
-pmid: 38106297
+pmid: 38106299
 moc: "[[SPArtifact]]"
 ---
 >[!title]

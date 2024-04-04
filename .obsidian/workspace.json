@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7862d8c09fcf68",
+        "id": "ab0f09e1e4c3beda",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1f35e0f26fd0bc",
+            "id": "7e00df66a4efe47c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning Conference/Thoracic/Lung SBRT planning/ASTRO consensus.md",
+                "file": "Research/Linguistics/Paper.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7028c77541f3ccdc",
+            "id": "f1b7178bc3dac03c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning Conference/Thoracic/Lung SBRT planning/Planning.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "69680f2cb6f20d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Thoracic/Lung SBRT planning/3 Centers SBRT techniques.md",
+                "file": "Daily notes/2024/02/2024-04-04.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1a1f3195dcf90001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
-                "mode": "source",
-                "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "laritz",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -106,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bafc0931aef148e",
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
+                "file": "Research/Linguistics/Paper.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
+                "file": "Research/Linguistics/Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md"
+                "file": "Research/Linguistics/Paper.md"
               }
             }
           },
@@ -192,54 +168,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a1f3195dcf90001",
+  "active": "7e00df66a4efe47c",
   "lastOpenFiles": [
-    "Morning Conference/Thoracic/Lung SBRT planning/3 Centers SBRT techniques.md",
-    "Morning Conference/Thoracic/Lung SBRT planning/Boarding Passes.md",
-    "Morning Conference/Thoracic/Lung SBRT planning/Planning.md",
-    "Morning Conference/Thoracic/Lung SBRT planning/ASTRO consensus.md",
-    "Morning Conference/Thoracic/Lung SBRT planning/attachments/img_Ultracentral Dose Contraints_rtog0813.png",
-    "Morning Conference/Thoracic/Lung SBRT planning/attachments/01. ASTRO Consensus Guidelines.pdf",
-    "Morning Conference/Thoracic/Lung SBRT planning/AAPM Consensus.md",
-    "Morning Conference/Thoracic/Lung SBRT planning/MOC Lung SBRT planning.md",
-    "misc/Interview questions.md",
-    "misc/TIROG satellite.md",
-    "Research/Boswellia/Paper.md",
-    "Research/Boswellia/articles/@upadhyayRoleBoswelliaSerrata2023.md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/UK Multicenter (Dose-reduction).md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/ECRO Indolent NHL.md",
-    "Morning Conference/Lymphoma/Aggressive NHL/Optimal-60.md",
-    "Morning Conference/Lymphoma/Aggressive NHL/SWOG 8736 (CHOP ± RT).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-60 (CHOP ± R).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/RICOVER-noRTh (RCHOP ± bulky RT).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/ECRO Aggressive NHL.md",
-    "Morning Conference/Lymphoma/Aggressive NHL/UNFOLDER (RCHOP (14 v 21) ± bulky RT.md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/attachments/GHSGBoneDzRTorRitux.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/FLYER (RCHOP + adj RCHOP v R).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/LYSA-GOELAMS 0203 (RCHOP ± RT).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/GELA LNH 93-4 (CHOP ± RT).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/ECOG 1484 (CHOP ± RT).md",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/ECRO_aggressiveNHL.pdf",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/attachments/NasalNKTCell.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/OPTIMAL-60.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/UK Lowry.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/LYSA-GOELAMS 02-03.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/UNFOLDER Mediastinal BCL.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/UNFOLDER Aggressive BCL.pdf",
-    "Morning Conference/Lymphoma/Aggressive NHL/attachments/RICOVER-noRTh.pdf",
-    "Research/SPArc Workflow Model/Notes.md",
-    "Research/SPArc Workflow Model/Abstract.md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/European Gastric MALT.md",
-    "Morning Conference/Lymphoma/Indolent + Extranodal NHL/TROG 9903 (30Gy ± (R)-CVP).md",
-    "Research/Boswellia/attachments/dx_imaging.png",
-    "Research/Boswellia/attachments/tx_plan.png",
-    "Research/Boswellia/attachments/BS_graph.png",
-    "misc/attachments/20240131_123156.jpg",
-    "Research/Boswellia/attachments/Pasted image 20240228204648.png",
-    "Research/SPArtifact/attachments/img_Abstract_fig1-1.png",
-    "Research/SPArtifact/attachments/img_Abstract_fig2-1.png",
-    "Research/SPArtifact/attachments/img_Abstract_fig2.png",
-    "Research/SPArtifact/attachments/img_Abstract_fig1.png",
+    "Literature/@grabeelComputerizedHandscoredHealth2018.md",
+    "Research/Linguistics/Paper.md",
+    "Literature/@doakTeachingPatientsLow1985.md",
+    "Literature/@simpsonMeasurementDiversity1949.md",
+    "Literature/@luExaminingScientificWriting2019.md",
+    "Literature/@ureLexicalDensityRegister1971.md",
+    "Literature/@vajjalaImprovingAccuracyReadability2012.md",
+    "Literature/@fryReadabilityFormulaThat1968.md",
+    "Literature/@caylorMethodologiesDeterminingReading1973.md",
+    "Literature/@mclaughlinSMOGGradingNew1969.md",
+    "Literature/@gunningTechniqueClearWriting1952.md",
+    "Literature/@challReadabilityRevisitedNew1995.md",
+    "Morning Conference/Pediatrics/Sarcoma.md",
+    "Literature/@daleFormulaPredictingReadability1948.md",
+    "Literature/@kincaidDerivationNewReadability1975.md",
+    "Literature/@rfleschNewReadabilityYardstick1948.md",
+    "Literature/@matthewhonnibalSpaCyIndustrialstrengthNatural.md",
+    "Research/Linguistics/articles/@PMCOpenAccess2003.md",
+    "Research/Linguistics/articles/@fangScientificLiteracySystemic2005.md",
+    "Research/Linguistics/articles/@vinkersUsePositiveNegative2015 1.md",
+    "Research/Linguistics/articles/@biberChallengingStereotypesAcademic2010.md",
+    "Research/Linguistics/articles/@anteRelationshipReadabilityScientific2022.md",
+    "Research/Linguistics/articles/@paasche-orlowmichaelk.ReadabilityStandardsInformedConsent2003.md",
+    "Research/Linguistics/articles/@hinnantTacitUnderstandingsHealth2009.md",
+    "Research/Linguistics/articles/@nrmpMatchDataReport.md",
+    "Research/Linguistics/articles/@plaven-sigrayReadabilityScientificTexts.md",
+    "Research/Boswellia/attachments/weight_loss.jpg",
+    "Research/Boswellia/attachments/weight_loss.png",
+    "Research/Linguistics/articles",
+    "Research/Linguistics/attachments/fig7_types.png",
+    "Research/Linguistics/attachments/fig6_pairplot.png",
+    "Morning Conference/H&N/Oropharynx - HPVneg/attachments/04_MACH-NC.pdf",
+    "Research/Linguistics/attachments/fig5_frequency.png",
+    "Research/Linguistics/attachments/fig4_density.png",
+    "Research/Linguistics/attachments/fig3_reading.png",
+    "Research/Linguistics/attachments/fig2_counts.png",
+    "Research/Linguistics/attachments/fig1_pubcounts.png",
+    "Research/Linguistics/attachments/fig4_frequency.png",
+    "Research/Linguistics/attachments",
+    "Research/Linguistics",
+    "Research/SPArtifact/articles/attachments/DeLaney et al. - 2009 - PHASE II STUDY OF HIGH DOSE PHOTONPROTON RADIOTHE.pdf",
+    "Research/SPArtifact/articles/attachments/Jia et al. - 2015 - Dose perturbation effect of metallic spinal implan.pdf",
+    "Research/SPArtifact/articles/attachments",
+    "Morning Conference/Lymphoma/HL/attachments/ECRO_HL.pdf",
+    "Morning Conference/Lymphoma/HL/attachments/EORTC GELA H10 - INRT.pdf",
+    "Morning Conference/Lymphoma/HL/attachments/GHSG HD17 - Early Stage Unfavorable RT Omission.pdf",
     "Morning Conference/CNS/GBM/Untitled.canvas"
   ]
 }
